@@ -6,9 +6,6 @@
   <a href="https://flowsyncai30.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/FlowSync_AI-Live-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="FlowSync AI" />
   </a>
-  <a href="mailto:shubhamdangi82@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shubhamdangi82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://instagram.com/_shubham_9978" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@__shubham__9978-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
