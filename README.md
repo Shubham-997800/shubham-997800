@@ -70,6 +70,42 @@ I focus on **frontend engineering** — building interfaces that are fast, acces
 
 ---
 
+## 🏅 GitHub Achievements
+
+<table>
+<tr>
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;">
+
+### ✅ Earned
+| Badge | Achievement | Status |
+|-------|-------------|--------|
+| 📝 | **Profile README** — Created profile README repo | ✅ Done |
+| ⭐ | **Starstruck** — Earn 16+ stars on 1 repo | ⏳ 4/16 stars |
+| 🦈 | **Pull Shark** — Merge 2+ pull requests | ❌ 0 PRs merged |
+| 🧠 | **Galaxy Brain** — 2+ accepted discussion answers | ❌ 0 discussions |
+| ⚡ | **Quickdraw** — Close issue in < 5 minutes | ❌ Not yet |
+
+</td>
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;">
+
+### 🎯 How to Earn Next
+
+| Badge | Action Needed | Difficulty |
+|-------|---------------|------------|
+| ⭐ **Starstruck** | Get 12 more stars on any 1 repo | ⏳ Organic |
+| 🦈 **Pull Shark** | Open 2 PRs to any repo and get them merged | ⚡ Easy |
+| 🧠 **Galaxy Brain** | Answer 2 questions in GitHub Discussions | ⚡ Easy |
+| ⚡ **Quickdraw** | Close an issue within 5 minutes of creation | ⏳ Luck |
+| 🤝 **Pair Extraordinaire** | Co-author a merged pull request | 🎯 Medium |
+
+</td>
+</tr>
+</table>
+
+**💡 Pro Tip:** Star other developers' repos and they'll often star back. Join GitHub Discussions in popular repos to earn Galaxy Brain.
+
+---
+
 ## 🧱 What I Build
 
 <table>
