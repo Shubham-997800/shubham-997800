@@ -58,6 +58,18 @@
 
 ---
 
+## 💡 How I Think
+
+> *"Build less, but build well. Every component should earn its place."*
+
+I focus on **frontend engineering** — building interfaces that are fast, accessible, and maintainable. I believe in:
+- **Honest code** — no unnecessary abstractions, no over-engineering
+- **Product thinking** — understanding *why* before *how*
+- **Ship then iterate** — deploy early, gather feedback, improve continuously
+- **Learn by building** — every project teaches something new
+
+---
+
 ## 🧱 What I Build
 
 <table>
@@ -128,6 +140,7 @@ Built for Vibe2Ship hackathon (Coding Ninjas × Google). Multi-provider AI integ
 
 <a href="https://flowsyncai30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&borderColor=22D3EE" alt="Live"></a>
 <a href="https://github.com/Shubham-997800/FlowSync-Ai"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=22D3EE" alt="Code"></a>
+<a href="https://github.com/Shubham-997800/FlowSync-Ai"><img src="https://img.shields.io/badge/⚡_Lighthouse-95+-000000?style=flat-square&logo=googlelighthouse&logoColor=FFCA28&borderColor=FFCA28" alt="Lighthouse"></a>
 
 </td>
 </tr>
@@ -155,6 +168,7 @@ Full business workflow tool — track companies, works, payments, and documents 
 
 <a href="https://workos30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&borderColor=06B6D4" alt="Live"></a>
 <a href="https://github.com/Shubham-997800/WorkOS"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=06B6D4" alt="Code"></a>
+<a href="https://github.com/Shubham-997800/WorkOS"><img src="https://img.shields.io/badge/⚡_Lighthouse-92+-000000?style=flat-square&logo=googlelighthouse&logoColor=FFCA28&borderColor=FFCA28" alt="Lighthouse"></a>
 
 </td>
 </tr>
@@ -445,6 +459,7 @@ Kaggle × Google
 
 *Frontend developer who builds, ships, and continuously improves.*
 *Always interested in thoughtful products and interesting problems.*
+*Open to open source collaborations and frontend contributions.*
 
 <br>
 
