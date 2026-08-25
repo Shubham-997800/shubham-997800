@@ -334,7 +334,7 @@ Kaggle × Google
 </tr>
 </table>
 
-### 📈 Developer Journey
+#### 📈 Developer Journey
 
 ```
 2026
@@ -373,21 +373,23 @@ Kaggle × Google
 
 <p align="center">
   <a href="https://github.com/Shubham-997800">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shubham-997800&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%">
+    <img src="https://ghstats.dev/api/card?username=Shubham-997800&theme=radical" alt="GitHub Stats" width="49%">
   </a>
   <a href="https://github.com/Shubham-997800">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-997800&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%">
+    <img src="https://ghstats.dev/api/langs?username=Shubham-997800&theme=radical" alt="Top Languages" width="49%">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shubham-997800">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-997800&theme=radical&hide_border=true" alt="GitHub Streak" width="65%">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-997800&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" width="90%">
+  <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=streak&color=818CF8" alt="Streak">
+  &nbsp;&nbsp;
+  <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=commits&color=6366F1" alt="Commits">
+  &nbsp;&nbsp;
+  <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=prs&color=A855F7" alt="PRs">
+  &nbsp;&nbsp;
+  <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=stars&color=F59E0B" alt="Stars">
+  &nbsp;&nbsp;
+  <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=contributions&color=10B981" alt="Contributions">
 </p>
 
 ---
@@ -395,7 +397,7 @@ Kaggle × Google
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-997800&bg_color=0D1117&color=818CF8&line=6366F1&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" alt="Activity Graph">
+  <img src="https://ghstats.dev/api/sparkline?username=Shubham-997800&days=90&width=800&color=818CF8" alt="Activity Sparkline">
 </p>
 
 ---
