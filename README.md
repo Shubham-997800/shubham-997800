@@ -41,13 +41,12 @@
 </td>
 <td width="100%" bgcolor="#000000" style="padding: 14px; border: 1px solid #003840;">
 
-- 🎓 **BCA 2027** student based in Ahmedabad, Gujarat, India
-- ⚛️ Focused on **frontend development** with React ecosystem
-- 🎨 I build polished, responsive and production-ready user experiences
-- 🚀 Regularly build and deploy **real-world web applications**
-- 🏆 **Odoo Hackathon 2026** Grand Finale Finalist — Team Leader
+- 🎓 **BCA 2027** · Ahmedabad, Gujarat, India
+- ⚛️ **Frontend Developer** — React 19, TypeScript, Tailwind CSS
+- 🏆 **Odoo Hackathon 2026** Grand Finale Finalist · Team Leader
+- 🚀 Ship real products — not just tutorials
 - 🤖 Exploring AI-powered product experiences
-- 🧠 Strong interest in **problem solving** and product development
+- 🧠 Strong interest in problem solving and product engineering
 
 </td>
 </tr>
@@ -65,7 +64,7 @@
 <tr>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
 <h4 align="center">🎨 Frontend Engineering</h4>
-<p align="center">Responsive UI · Component systems · Modern interfaces</p>
+<p align="center">Responsive UI · Component architecture · Modern interfaces</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
 <h4 align="center">⚛️ React & Modern UI</h4>
@@ -75,7 +74,7 @@
 <tr>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
 <h4 align="center">📱 Web Applications</h4>
-<p align="center">Responsive web apps · Dashboard interfaces · PWA</p>
+<p align="center">Dashboard interfaces · PWA · Real-time features</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
 <h4 align="center">🤖 AI-Powered Products</h4>
@@ -88,13 +87,13 @@
 <p align="center">Vercel · Railway · Render · CI/CD pipelines</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
-<h4 align="center">🧩 Component Architecture</h4>
-<p align="center">Reusable primitives · Design systems · UI libraries</p>
+<h4 align="center">🧩 Component Systems</h4>
+<p align="center">Reusable primitives · Consistent UI patterns</p>
 </td>
 </tr>
 <tr>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
-<h4 align="center">🏆 Hackathon Projects</h4>
+<h4 align="center">🏆 Hackathon Builder</h4>
 <p align="center">Competitive building · Real-world problem solving</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
@@ -106,44 +105,24 @@
 
 ---
 
-## 🧠 Frontend Expertise
-
-<table>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">🎨 UI Engineering</h4>
-<p align="center">Responsive Design · Component Architecture<br>Accessibility · UI State Management</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">⚛️ React Ecosystem</h4>
-<p align="center">React 19 · React Router · TanStack Query<br>React Hook Form · Context API</p>
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">🖌️ Styling</h4>
-<p align="center">Tailwind CSS · CSS3 · Responsive Layouts<br>Modern UI Patterns · Dark / Light Themes</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">🔧 Application Dev</h4>
-<p align="center">API Integration · Authentication · Forms & Validation<br>Charts & Visualization · PWA & Deployment</p>
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="6" bgcolor="#22D3EE"></td>
-<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### [`FlowSync AI`](https://github.com/Shubham-997800/FlowSync-Ai) 🧠
 **AI-Powered Productivity Operating System**
 
-Intelligent task prioritization, AI-generated daily schedules, deadline risk prediction, rescue planning, voice input, and multi-provider AI integration.
+Built for Vibe2Ship hackathon (Coding Ninjas × Google). Multi-provider AI integration with OpenRouter, AI-generated daily schedules, deadline risk prediction, rescue planning, and voice input for task creation.
+
+**Key Features:**
+- 🎤 Voice-to-task input with real-time transcription
+- 📊 AI schedule generation based on priority and deadlines
+- ⚠️ Deadline risk prediction with rescue planning
+- 🔄 Multi-provider AI backend (OpenRouter integration)
+- 🎨 Framer Motion animations throughout
 
 `React 19` `Vite` `Tailwind CSS` `Framer Motion` `Node.js` `Express` `MongoDB` `OpenRouter`
 
@@ -157,12 +136,20 @@ Intelligent task prioritization, AI-generated daily schedules, deadline risk pre
 <table>
 <tr>
 <td width="6" bgcolor="#06B6D4"></td>
-<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### [`WorkOS`](https://github.com/Shubham-997800/WorkOS) 💼
 **Business Workflow Management Platform**
 
-Track companies, works, payments, and documents from a single dashboard. PWA with offline support, global search, and device session management.
+Full business workflow tool — track companies, works, payments, and documents from a single dashboard. PWA with offline support, global search, and device session management.
+
+**Key Features:**
+- 📱 PWA with offline-first architecture
+- 🔍 Global search across all entities
+- 💳 Payment tracking with status workflows
+- 📄 Document management system
+- 🖥️ Device session management
+- ⚡ Prisma + PostgreSQL backend
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `TanStack Query` `Prisma`
 
@@ -176,12 +163,19 @@ Track companies, works, payments, and documents from a single dashboard. PWA wit
 <table>
 <tr>
 <td width="6" bgcolor="#0891B2"></td>
-<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### [`Assetrix`](https://github.com/Shubham-997800/assetrix) 📊
 **Enterprise Asset & Resource Management Platform**
 
-Full lifecycle asset management with RBAC, approval workflows, maintenance scheduling, audit compliance, and operational intelligence.
+Full lifecycle asset management with RBAC, approval workflows, maintenance scheduling, and audit compliance. Built with Next.js for server-side rendering and Prisma for type-safe database access.
+
+**Key Features:**
+- 🔐 Role-based access control (RBAC)
+- ✅ Multi-step approval workflows
+- 📅 Maintenance scheduling system
+- 📋 Audit compliance tracking
+- 📊 Operational intelligence dashboard
 
 `Next.js` `React 19` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
@@ -195,12 +189,18 @@ Full lifecycle asset management with RBAC, approval workflows, maintenance sched
 <table>
 <tr>
 <td width="6" bgcolor="#2DD4BF"></td>
-<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### [`CAMPUS360`](https://github.com/Shubham-997800/CAMPUS360) 🎓
 **Campus Management Web Platform**
 
-Centralized campus portal for student resources, event management, and academic workflows. Built with modern React patterns.
+Centralized campus portal for student resources, event management, and academic workflows. Component-based architecture with reusable UI primitives.
+
+**Key Features:**
+- 🧩 Component-based architecture
+- 📅 Event management system
+- 🎯 Academic workflow tracking
+- 📱 Responsive mobile-first design
 
 `React` `JavaScript` `HTML` `CSS` `Vite`
 
@@ -273,6 +273,7 @@ Centralized campus portal for student resources, event management, and academic 
   <img src="https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logoColor=5F5CE5&borderColor=5F5CE5" alt="Radix UI">
   <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=0055FF&borderColor=0055FF" alt="Framer Motion">
   <img src="https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=chartdotjs&logoColor=FF6384&borderColor=FF6384" alt="Chart.js">
+  <img src="https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logoColor=FFFFFF&borderColor=FFFFFF" alt="shadcn/ui">
 </p>
 
 ### Backend & Data
@@ -295,6 +296,33 @@ Centralized campus portal for student resources, event management, and academic 
 </p>
 
 </details>
+
+---
+
+## 🧠 Frontend Expertise
+
+<table>
+<tr>
+<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<h4 align="center">🎨 UI Engineering</h4>
+<p align="center">Responsive Design · Component Architecture<br>Accessibility · UI State Management</p>
+</td>
+<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<h4 align="center">⚛️ React Ecosystem</h4>
+<p align="center">React 19 · React Router · TanStack Query<br>React Hook Form · Context API</p>
+</td>
+</tr>
+<tr>
+<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<h4 align="center">🖌️ Styling</h4>
+<p align="center">Tailwind CSS · CSS3 · Responsive Layouts<br>Modern UI Patterns · Dark / Light Themes</p>
+</td>
+<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<h4 align="center">🔧 Application Dev</h4>
+<p align="center">API Integration · Forms & Validation<br>Charts & Visualization · PWA & Deployment</p>
+</td>
+</tr>
+</table>
 
 ---
 
