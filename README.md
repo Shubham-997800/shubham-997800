@@ -47,14 +47,52 @@
 
 ## 🧱 What I Build
 
-**🎨 Frontend Engineering** — Responsive UI · Component systems · Modern interfaces
-**⚛️ React & Modern UI** — React 19 · State management · API integration
-**📱 Web Applications** — Full-stack apps · Dashboard interfaces · PWA
-**🤖 AI-Powered Products** — Multi-provider AI · Intelligent workflows · Voice input
-**🚀 Deployment** — Vercel · Railway · Render · CI/CD pipelines
-**🧩 Component Architecture** — Reusable primitives · Design systems · UI libraries
-**🏆 Hackathon Projects** — Competitive building · Real-world problem solving
-**🧠 Problem Solving** — Algorithmic thinking · Product engineering
+<table>
+<tr>
+<td width="25%" align="center" bgcolor="#000000">
+<h4>🎨</h4>
+<b style="color:#22D3EE">Frontend Engineering</b><br>
+Responsive UI · Component systems · Modern interfaces
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<h4>⚛️</h4>
+<b style="color:#22D3EE">React & Modern UI</b><br>
+React 19 · State management · API integration
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<h4>📱</h4>
+<b style="color:#22D3EE">Web Applications</b><br>
+Full-stack apps · Dashboard interfaces · PWA
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<h4>🤖</h4>
+<b style="color:#22D3EE">AI-Powered Products</b><br>
+Multi-provider AI · Intelligent workflows · Voice input
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" bgcolor="#000000">
+<h4>🚀</h4>
+<b style="color:#06B6D4">Deployment</b><br>
+Vercel · Railway · Render · CI/CD pipelines
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<h4>🧩</h4>
+<b style="color:#06B6D4">Component Architecture</b><br>
+Reusable primitives · Design systems · UI libraries
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<h4>🏆</h4>
+<b style="color:#06B6D4">Hackathon Projects</b><br>
+Competitive building · Real-world problem solving
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<h4>🧠</h4>
+<b style="color:#06B6D4">Problem Solving</b><br>
+Algorithmic thinking · Product engineering
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,8 +111,7 @@ Intelligent task prioritization, AI-generated daily schedules, deadline risk pre
 `React 19` `Vite` `Tailwind CSS` `Framer Motion` `Node.js` `Express` `MongoDB` `OpenRouter`
 
 <a href="https://flowsyncai30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&borderColor=22D3EE" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/FlowSync-Ai"><img src="https://img.shields.io/badge/SOURCE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=22D3EE" alt="Code"></a>
-<a href="https://github.com/Shubham-997800/FlowSync-Ai"><img src="https://img.shields.io/badge/⭐_STAR-000000?style=for-the-badge&logo=github&logoColor=FFCA28&borderColor=FFCA28" alt="Star"></a>
+<a href="https://github.com/Shubham-997800/FlowSync-Ai"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=22D3EE" alt="Code"></a>
 
 </td>
 </tr>
@@ -93,8 +130,7 @@ Track companies, works, payments, and documents from a single dashboard. PWA wit
 `React 19` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `TanStack Query` `Prisma`
 
 <a href="https://workos30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&borderColor=06B6D4" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/WorkOS"><img src="https://img.shields.io/badge/SOURCE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=06B6D4" alt="Code"></a>
-<a href="https://github.com/Shubham-997800/WorkOS"><img src="https://img.shields.io/badge/⭐_STAR-000000?style=for-the-badge&logo=github&logoColor=FFCA28&borderColor=FFCA28" alt="Star"></a>
+<a href="https://github.com/Shubham-997800/WorkOS"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=06B6D4" alt="Code"></a>
 
 </td>
 </tr>
@@ -113,8 +149,7 @@ Full lifecycle asset management with RBAC, approval workflows, maintenance sched
 `Next.js` `React 19` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Redis`
 
 <a href="https://assetrix30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-0891B2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&borderColor=0891B2" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/assetrix"><img src="https://img.shields.io/badge/SOURCE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=0891B2" alt="Code"></a>
-<a href="https://github.com/Shubham-997800/assetrix"><img src="https://img.shields.io/badge/⭐_STAR-000000?style=for-the-badge&logo=github&logoColor=FFCA28&borderColor=FFCA28" alt="Star"></a>
+<a href="https://github.com/Shubham-997800/assetrix"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=0891B2" alt="Code"></a>
 
 </td>
 </tr>
@@ -133,8 +168,7 @@ Web application built and deployed as part of my development portfolio.
 `React` `JavaScript` `HTML` `CSS` `Vite`
 
 <a href="https://campus30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-2DD4BF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000&borderColor=2DD4BF" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/CAMPUS360"><img src="https://img.shields.io/badge/SOURCE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=2DD4BF" alt="Code"></a>
-<a href="https://github.com/Shubham-997800/CAMPUS360"><img src="https://img.shields.io/badge/⭐_STAR-000000?style=for-the-badge&logo=github&logoColor=FFCA28&borderColor=FFCA28" alt="Star"></a>
+<a href="https://github.com/Shubham-997800/CAMPUS360"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=2DD4BF" alt="Code"></a>
 
 </td>
 </tr>
@@ -146,7 +180,7 @@ Web application built and deployed as part of my development portfolio.
 <tr>
 <td width="4" bgcolor="#67E8F9"></td>
 <td bgcolor="#000000" style="padding: 10px;">
-**[`SDX30`](https://github.com/Shubham-997800/sdx30)** — Developer Portfolio `HTML` `CSS` `JavaScript`
+<b><a href="https://github.com/Shubham-997800/sdx30">SDX30</a></b> — Developer Portfolio · `HTML` `CSS` `JavaScript`
 <a href="https://sdx30.vercel.app/"><img src="https://img.shields.io/badge/LIVE-67E8F9?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
 <a href="https://github.com/Shubham-997800/sdx30"><img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
 </td>
@@ -157,7 +191,7 @@ Web application built and deployed as part of my development portfolio.
 <tr>
 <td width="4" bgcolor="#A5F3FC"></td>
 <td bgcolor="#000000" style="padding: 10px;">
-**[`StartupLaunch`](https://github.com/Shubham-997800/kaggle-startuplaunch)** — Startup Application `React` `JavaScript` `HTML` `CSS`
+<b><a href="https://github.com/Shubham-997800/kaggle-startuplaunch">StartupLaunch</a></b> — Startup Application · `React` `JavaScript` `HTML` `CSS`
 <a href="https://startuplaunch30.vercel.app/"><img src="https://img.shields.io/badge/LIVE-A5F3FC?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
 <a href="https://github.com/Shubham-997800/kaggle-startuplaunch"><img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
 </td>
@@ -168,7 +202,7 @@ Web application built and deployed as part of my development portfolio.
 <tr>
 <td width="4" bgcolor="#CCFBF1"></td>
 <td bgcolor="#000000" style="padding: 10px;">
-**[`SofaWala`](https://github.com/Shubham-997800/SofaWala)** — E-Commerce Showcase `HTML` `CSS` `JavaScript`
+<b><a href="https://github.com/Shubham-997800/SofaWala">SofaWala</a></b> — E-Commerce Showcase · `HTML` `CSS` `JavaScript`
 <a href="https://sofawala.vercel.app/"><img src="https://img.shields.io/badge/LIVE-CCFBF1?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
 <a href="https://github.com/Shubham-997800/SofaWala"><img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
 </td>
@@ -233,10 +267,26 @@ Web application built and deployed as part of my development portfolio.
 
 ## 🧠 Frontend Expertise
 
-**🎨 UI Engineering** — Responsive Design · Component Architecture · Design Systems · Accessibility · UI State Management
-**⚛️ React Ecosystem** — React 19 · React Router · TanStack Query · React Hook Form · Context API
-**🖌️ Styling** — Tailwind CSS · CSS3 · Responsive Layouts · Modern UI Patterns · Dark / Light Themes
-**🔧 Application Dev** — API Integration · Authentication · Forms & Validation · Charts & Visualization · PWA & Deployment
+<table>
+<tr>
+<td width="25%" align="center" bgcolor="#000000">
+<b style="color:#22D3EE">🎨 UI Engineering</b><br>
+Responsive Design · Component Architecture<br>Design Systems · Accessibility · UI State Management
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<b style="color:#22D3EE">⚛️ React Ecosystem</b><br>
+React 19 · React Router · TanStack Query<br>React Hook Form · Context API
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<b style="color:#22D3EE">🖌️ Styling</b><br>
+Tailwind CSS · CSS3 · Responsive Layouts<br>Modern UI Patterns · Dark / Light Themes
+</td>
+<td width="25%" align="center" bgcolor="#000000">
+<b style="color:#22D3EE">🔧 Application Dev</b><br>
+API Integration · Authentication · Forms & Validation<br>Charts & Visualization · PWA & Deployment
+</td>
+</tr>
+</table>
 
 ---
 
@@ -361,10 +411,7 @@ Kaggle × Google
 
 <div align="center">
 
-```
-Frontend developer who builds, ships, and continuously improves.
-Always interested in thoughtful products and interesting problems.
-```
+<p><em>Frontend developer who builds, ships, and continuously improves.<br>Always interested in thoughtful products and interesting problems.</em></p>
 
 <a href="https://www.linkedin.com/in/sdx30/">
   <img src="https://img.shields.io/badge/💼_CONNECT-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&borderColor=0A66C2" alt="LinkedIn">
@@ -376,9 +423,12 @@ Always interested in thoughtful products and interesting problems.
   <img src="https://img.shields.io/badge/📧_SAY_HI-Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&borderColor=EA4335" alt="Email">
 </a>
 
-**Thanks for visiting my profile! 👋**
+<br>
 
+**Thanks for visiting my profile! 👋**
 **Building. Learning. Shipping. 🚀**
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Shubham-997800&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
 
