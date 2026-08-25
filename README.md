@@ -74,35 +74,32 @@ I focus on **frontend engineering** — building interfaces that are fast, acces
 
 <table>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;">
+<td width="33%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;" align="center">
 
-### ✅ Earned
-| Badge | Achievement | Status |
-|-------|-------------|--------|
-| 📝 | **Profile README** — Created profile README repo | ✅ Done |
-| ⭐ | **Starstruck** — Earn 16+ stars on 1 repo | ⏳ 4/16 stars |
-| 🦈 | **Pull Shark** — Merge 2+ pull requests | ❌ 0 PRs merged |
-| 🧠 | **Galaxy Brain** — 2+ accepted discussion answers | ❌ 0 discussions |
-| ⚡ | **Quickdraw** — Close issue in < 5 minutes | ❌ Not yet |
+### 📝 Profile README
+Created profile README repo
+
+✅ **Earned**
 
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;">
+<td width="33%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;" align="center">
 
-### 🎯 How to Earn Next
+### 🦈 Pull Shark
+Merged 3 pull requests
 
-| Badge | Action Needed | Difficulty |
-|-------|---------------|------------|
-| ⭐ **Starstruck** | Get 12 more stars on any 1 repo | ⏳ Organic |
-| 🦈 **Pull Shark** | Open 2 PRs to any repo and get them merged | ⚡ Easy |
-| 🧠 **Galaxy Brain** | Answer 2 questions in GitHub Discussions | ⚡ Easy |
-| ⚡ **Quickdraw** | Close an issue within 5 minutes of creation | ⏳ Luck |
-| 🤝 **Pair Extraordinaire** | Co-author a merged pull request | 🎯 Medium |
+✅ **Level 1**
+
+</td>
+<td width="34%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;" align="center">
+
+### ⚡ Quickdraw
+Closed issues in < 5 minutes
+
+✅ **Earned**
 
 </td>
 </tr>
 </table>
-
-**💡 Pro Tip:** Star other developers' repos and they'll often star back. Join GitHub Discussions in popular repos to earn Galaxy Brain.
 
 ---
 
