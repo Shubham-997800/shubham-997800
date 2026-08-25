@@ -49,47 +49,43 @@
 
 <table>
 <tr>
-<td width="25%" align="center" bgcolor="#000000">
-<h4>🎨</h4>
-<b style="color:#22D3EE">Frontend Engineering</b><br>
-Responsive UI · Component systems · Modern interfaces
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">🎨 Frontend Engineering</h4>
+<p align="center">Responsive UI · Component systems · Modern interfaces</p>
 </td>
-<td width="25%" align="center" bgcolor="#000000">
-<h4>⚛️</h4>
-<b style="color:#22D3EE">React & Modern UI</b><br>
-React 19 · State management · API integration
-</td>
-<td width="25%" align="center" bgcolor="#000000">
-<h4>📱</h4>
-<b style="color:#22D3EE">Web Applications</b><br>
-Full-stack apps · Dashboard interfaces · PWA
-</td>
-<td width="25%" align="center" bgcolor="#000000">
-<h4>🤖</h4>
-<b style="color:#22D3EE">AI-Powered Products</b><br>
-Multi-provider AI · Intelligent workflows · Voice input
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">⚛️ React & Modern UI</h4>
+<p align="center">React 19 · State management · API integration</p>
 </td>
 </tr>
 <tr>
-<td width="25%" align="center" bgcolor="#000000">
-<h4>🚀</h4>
-<b style="color:#06B6D4">Deployment</b><br>
-Vercel · Railway · Render · CI/CD pipelines
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">📱 Web Applications</h4>
+<p align="center">Full-stack apps · Dashboard interfaces · PWA</p>
 </td>
-<td width="25%" align="center" bgcolor="#000000">
-<h4>🧩</h4>
-<b style="color:#06B6D4">Component Architecture</b><br>
-Reusable primitives · Design systems · UI libraries
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">🤖 AI-Powered Products</h4>
+<p align="center">Multi-provider AI · Intelligent workflows · Voice input</p>
 </td>
-<td width="25%" align="center" bgcolor="#000000">
-<h4>🏆</h4>
-<b style="color:#06B6D4">Hackathon Projects</b><br>
-Competitive building · Real-world problem solving
+</tr>
+<tr>
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">🚀 Deployment</h4>
+<p align="center">Vercel · Railway · Render · CI/CD pipelines</p>
 </td>
-<td width="25%" align="center" bgcolor="#000000">
-<h4>🧠</h4>
-<b style="color:#06B6D4">Problem Solving</b><br>
-Algorithmic thinking · Product engineering
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">🧩 Component Architecture</h4>
+<p align="center">Reusable primitives · Design systems · UI libraries</p>
+</td>
+</tr>
+<tr>
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">🏆 Hackathon Projects</h4>
+<p align="center">Competitive building · Real-world problem solving</p>
+</td>
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">🧠 Problem Solving</h4>
+<p align="center">Algorithmic thinking · Product engineering</p>
 </td>
 </tr>
 </table>
@@ -269,21 +265,23 @@ Web application built and deployed as part of my development portfolio.
 
 <table>
 <tr>
-<td width="25%" align="center" bgcolor="#000000">
-<b style="color:#22D3EE">🎨 UI Engineering</b><br>
-Responsive Design · Component Architecture<br>Design Systems · Accessibility · UI State Management
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">🎨 UI Engineering</h4>
+<p align="center">Responsive Design · Component Architecture<br>Design Systems · Accessibility · UI State Management</p>
 </td>
-<td width="25%" align="center" bgcolor="#000000">
-<b style="color:#22D3EE">⚛️ React Ecosystem</b><br>
-React 19 · React Router · TanStack Query<br>React Hook Form · Context API
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">⚛️ React Ecosystem</h4>
+<p align="center">React 19 · React Router · TanStack Query<br>React Hook Form · Context API</p>
 </td>
-<td width="25%" align="center" bgcolor="#000000">
-<b style="color:#22D3EE">🖌️ Styling</b><br>
-Tailwind CSS · CSS3 · Responsive Layouts<br>Modern UI Patterns · Dark / Light Themes
+</tr>
+<tr>
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">🖌️ Styling</h4>
+<p align="center">Tailwind CSS · CSS3 · Responsive Layouts<br>Modern UI Patterns · Dark / Light Themes</p>
 </td>
-<td width="25%" align="center" bgcolor="#000000">
-<b style="color:#22D3EE">🔧 Application Dev</b><br>
-API Integration · Authentication · Forms & Validation<br>Charts & Visualization · PWA & Deployment
+<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<h4 align="center">🔧 Application Dev</h4>
+<p align="center">API Integration · Authentication · Forms & Validation<br>Charts & Visualization · PWA & Deployment</p>
 </td>
 </tr>
 </table>
@@ -344,16 +342,6 @@ Kaggle × Google
 </tr>
 </table>
 
-### 📈 Developer Journey
-```
-2026
-│
-├── 🚀 Odoo Hackathon 2026 → Grand Finale Finalist · Team Leader
-├── 🌌 Bharatiya Antariksh Hackathon → SpaceTech problem solving (ISRO)
-├── 🤖 Vibe2Ship → Built FlowSync AI (Coding Ninjas + Google)
-└── ⚛️ Frontend Development → React ecosystem + modern web apps
-```
-
 ---
 
 ## 🌱 Currently Learning
@@ -395,14 +383,6 @@ Kaggle × Google
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=stars&color=FFCA28" alt="Stars">
   &nbsp;&nbsp;
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=contributions&color=2DD4BF" alt="Contributions">
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=Shubham-997800&days=90&width=100%25&color=22D3EE" alt="Activity Sparkline">
 </p>
 
 ---
