@@ -31,6 +31,10 @@
 
 ## 👤 About Me
 
+<table>
+<tr>
+<td width="100%" bgcolor="#000000" style="padding: 14px; border: 1px solid #003840;">
+
 - 🎓 **BCA 2027** student based in Ahmedabad, Gujarat, India
 - ⚛️ Focused on **frontend development** with React ecosystem
 - 🎨 I build polished, responsive and production-ready user experiences
@@ -38,6 +42,10 @@
 - 🏆 **Odoo Hackathon 2026** Grand Finale Finalist — Team Leader
 - 🤖 Exploring AI-powered product experiences
 - 🧠 Strong interest in **problem solving** and product development
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="80%">
@@ -49,41 +57,41 @@
 
 <table>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">🎨 Frontend Engineering</h4>
 <p align="center">Responsive UI · Component systems · Modern interfaces</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">⚛️ React & Modern UI</h4>
 <p align="center">React 19 · State management · API integration</p>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">📱 Web Applications</h4>
 <p align="center">Full-stack apps · Dashboard interfaces · PWA</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">🤖 AI-Powered Products</h4>
 <p align="center">Multi-provider AI · Intelligent workflows · Voice input</p>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">🚀 Deployment</h4>
 <p align="center">Vercel · Railway · Render · CI/CD pipelines</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">🧩 Component Architecture</h4>
 <p align="center">Reusable primitives · Design systems · UI libraries</p>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">🏆 Hackathon Projects</h4>
 <p align="center">Competitive building · Real-world problem solving</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">🧠 Problem Solving</h4>
 <p align="center">Algorithmic thinking · Product engineering</p>
 </td>
@@ -265,21 +273,21 @@ Web application built and deployed as part of my development portfolio.
 
 <table>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">🎨 UI Engineering</h4>
 <p align="center">Responsive Design · Component Architecture<br>Design Systems · Accessibility · UI State Management</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">⚛️ React Ecosystem</h4>
 <p align="center">React 19 · React Router · TanStack Query<br>React Hook Form · Context API</p>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">🖌️ Styling</h4>
 <p align="center">Tailwind CSS · CSS3 · Responsive Layouts<br>Modern UI Patterns · Dark / Light Themes</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 <h4 align="center">🔧 Application Dev</h4>
 <p align="center">API Integration · Authentication · Forms & Validation<br>Charts & Visualization · PWA & Deployment</p>
 </td>
@@ -346,7 +354,9 @@ Kaggle × Google
 
 ## 🌱 Currently Learning
 
-<div align="center">
+<table>
+<tr>
+<td bgcolor="#000000" style="padding: 14px; border: 1px solid #003840;" align="center">
   <img src="https://img.shields.io/badge/Advanced_React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=61DAFB" alt="Advanced React">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Frontend_Architecture-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="Frontend Architecture">
@@ -355,7 +365,9 @@ Kaggle × Google
   <img src="https://img.shields.io/badge/Testing-000000?style=for-the-badge&logoColor=06B6D4&borderColor=06B6D4" alt="Testing">
   <img src="https://img.shields.io/badge/Design_Systems-000000?style=for-the-badge&logoColor=0891B2&borderColor=0891B2" alt="Design Systems">
   <img src="https://img.shields.io/badge/AI_Applications-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="AI">
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -373,7 +385,9 @@ Kaggle × Google
   </a>
 </p>
 
-<p align="center">
+<table>
+<tr>
+<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;" align="center">
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=streak&color=22D3EE" alt="Streak">
   &nbsp;&nbsp;
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=commits&color=06B6D4" alt="Commits">
@@ -383,7 +397,9 @@ Kaggle × Google
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=stars&color=FFCA28" alt="Stars">
   &nbsp;&nbsp;
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=contributions&color=2DD4BF" alt="Contributions">
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
