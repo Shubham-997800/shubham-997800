@@ -36,6 +36,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br>
+
 ## 👤 About Me
 
 - 🎓 **BCA 2027** student based in Ahmedabad, Gujarat, India
@@ -46,68 +48,45 @@
 - 🤖 Exploring AI-powered product experiences
 - 🧠 Strong interest in **problem solving** and product development
 
+<br>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="80%">
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
 
 ## 🧱 What I Build
 
-<table>
-<tr>
-<td align="center" width="25%" bgcolor="#000000">
-<h4>🎨</h4>
-<h3 style="color:#22D3EE">Frontend Engineering</h3>
-Responsive UI · Component systems<br>Modern interfaces
-</td>
-<td align="center" width="25%" bgcolor="#000000">
-<h4>⚛️</h4>
-<h3 style="color:#22D3EE">React & Modern UI</h3>
-React 19 · State management<br>API integration
-</td>
-<td align="center" width="25%" bgcolor="#000000">
-<h4>📱</h4>
-<h3 style="color:#22D3EE">Web Applications</h3>
-Full-stack apps · Dashboard interfaces<br>PWA
-</td>
-<td align="center" width="25%" bgcolor="#000000">
-<h4>🤖</h4>
-<h3 style="color:#22D3EE">AI-Powered Products</h3>
-Multi-provider AI · Intelligent workflows<br>Voice input
-</td>
-</tr>
-<tr>
-<td align="center" width="25%" bgcolor="#000000">
-<h4>🚀</h4>
-<h3 style="color:#22D3EE">Deployment</h3>
-Vercel · Railway · Render<br>CI/CD pipelines
-</td>
-<td align="center" width="25%" bgcolor="#000000">
-<h4>🧩</h4>
-<h3 style="color:#22D3EE">Component Architecture</h3>
-Reusable primitives · Design systems<br>UI libraries
-</td>
-<td align="center" width="25%" bgcolor="#000000">
-<h4>🏆</h4>
-<h3 style="color:#22D3EE">Hackathon Projects</h3>
-Competitive building<br>Real-world problem solving
-</td>
-<td align="center" width="25%" bgcolor="#000000">
-<h4>🧠</h4>
-<h3 style="color:#22D3EE">Problem Solving</h3>
-Algorithmic thinking<br>Product engineering
-</td>
-</tr>
-</table>
+**🎨 Frontend Engineering** — Responsive UI · Component systems · Modern interfaces
+
+**⚛️ React & Modern UI** — React 19 · State management · API integration
+
+**📱 Web Applications** — Full-stack apps · Dashboard interfaces · PWA
+
+**🤖 AI-Powered Products** — Multi-provider AI · Intelligent workflows · Voice input
+
+**🚀 Deployment** — Vercel · Railway · Render · CI/CD pipelines
+
+**🧩 Component Architecture** — Reusable primitives · Design systems · UI libraries
+
+**🏆 Hackathon Projects** — Competitive building · Real-world problem solving
+
+**🧠 Problem Solving** — Algorithmic thinking · Product engineering
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br>
+
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<br>
 
 <table>
 <tr>
@@ -132,8 +111,7 @@ Intelligent task prioritization, AI-generated daily schedules, deadline risk pre
 </tr>
 </table>
 
-</td>
-<td width="50%">
+<br>
 
 <table>
 <tr>
@@ -158,10 +136,7 @@ Track companies, works, payments, and documents from a single dashboard. PWA wit
 </tr>
 </table>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br>
 
 <table>
 <tr>
@@ -186,8 +161,7 @@ Full lifecycle asset management with RBAC, approval workflows, maintenance sched
 </tr>
 </table>
 
-</td>
-<td width="50%">
+<br>
 
 <table>
 <tr>
@@ -212,15 +186,11 @@ Web application built and deployed as part of my development portfolio.
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
+<br>
 
 ### 📦 More Shipped Work
 
-<table>
-<tr>
-<td>
+<br>
 
 <table>
 <tr>
@@ -238,8 +208,7 @@ Web application built and deployed as part of my development portfolio.
 </tr>
 </table>
 
-</td>
-<td>
+<br>
 
 <table>
 <tr>
@@ -257,8 +226,7 @@ Web application built and deployed as part of my development portfolio.
 </tr>
 </table>
 
-</td>
-<td>
+<br>
 
 <table>
 <tr>
@@ -276,16 +244,16 @@ Web application built and deployed as part of my development portfolio.
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
 
 ## ⚛️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,git,vercel,github,firebase,docker,prisma,postgresql,mongodb,nextjs&theme=dark" alt="Tech Stack" width="500">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,git,vercel,github,firebase,docker,prisma,postgresql,mongodb,nextjs&theme=dark" alt="Tech Stack" width="100%">
 </div>
 
 <br>
@@ -319,10 +287,10 @@ Web application built and deployed as part of my development portfolio.
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&borderColor=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=000000&borderColor=FFFFFF" alt="JWT">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF&borderColor=FFFFFF" alt="JWT">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&borderColor=47A248" alt="MongoDB">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1&borderColor=4169E1" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=2D3748&borderColor=FFFFFF" alt="Prisma">
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF&borderColor=FFFFFF" alt="Prisma">
   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E&borderColor=3FCF8E" alt="Supabase">
   <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D&borderColor=DC382D" alt="Redis">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=FFFFFF&borderColor=FFFFFF" alt="Express">
@@ -341,66 +309,31 @@ Web application built and deployed as part of my development portfolio.
 
 </details>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
 
 ## 🧠 Frontend Expertise
 
-<table>
-<tr>
-<td align="center" width="25%" bgcolor="#000000">
+**🎨 UI Engineering** — Responsive Design · Component Architecture · Design Systems · Accessibility · UI State Management
 
-**🎨 UI Engineering**
+**⚛️ React Ecosystem** — React 19 · React Router · TanStack Query · React Hook Form · Context API
 
-Responsive Design
-Component Architecture
-Design Systems
-Accessibility
-UI State Management
+**🖌️ Styling** — Tailwind CSS · CSS3 · Responsive Layouts · Modern UI Patterns · Dark / Light Themes
 
-</td>
-<td align="center" width="25%" bgcolor="#000000">
+**🔧 Application Dev** — API Integration · Authentication · Forms & Validation · Charts & Visualization · PWA & Deployment
 
-**⚛️ React Ecosystem**
-
-React 19
-React Router
-TanStack Query
-React Hook Form
-Context API
-
-</td>
-<td align="center" width="25%" bgcolor="#000000">
-
-**🖌️ Styling**
-
-Tailwind CSS
-CSS3
-Responsive Layouts
-Modern UI Patterns
-Dark / Light Themes
-
-</td>
-<td align="center" width="25%" bgcolor="#000000">
-
-**🔧 Application Dev**
-
-API Integration
-Authentication
-Forms & Validation
-Charts & Visualization
-PWA & Deployment
-
-</td>
-</tr>
-</table>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br>
+
 ## 🏆 Hackathons & Builder Journey
 
-<table>
-<tr>
-<td width="50%">
+<br>
 
 <table>
 <tr>
@@ -419,8 +352,7 @@ Selected from **20,000+ applicants**
 </tr>
 </table>
 
-</td>
-<td width="50%">
+<br>
 
 <table>
 <tr>
@@ -439,10 +371,7 @@ Powered by Hack2Skill
 </tr>
 </table>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br>
 
 <table>
 <tr>
@@ -459,8 +388,7 @@ Coding Ninjas × Google for Developers
 </tr>
 </table>
 
-</td>
-<td width="50%">
+<br>
 
 <table>
 <tr>
@@ -477,9 +405,7 @@ Kaggle × Google
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
+<br>
 
 ### 📈 Developer Journey
 
@@ -499,7 +425,11 @@ Kaggle × Google
     └── React ecosystem + modern web apps
 ```
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
 
 ## 🌱 Currently Learning
 
@@ -514,18 +444,29 @@ Kaggle × Google
   <img src="https://img.shields.io/badge/AI_Applications-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="AI">
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Shubham-997800">
-    <img src="https://ghstats.dev/api/card?username=Shubham-997800&theme=radical" alt="GitHub Stats" width="49%">
-  </a>
-  <a href="https://github.com/Shubham-997800">
-    <img src="https://ghstats.dev/api/langs?username=Shubham-997800&theme=radical" alt="Top Languages" width="49%">
+    <img src="https://ghstats.dev/api/card?username=Shubham-997800&theme=radical" alt="GitHub Stats" width="100%">
   </a>
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Shubham-997800">
+    <img src="https://ghstats.dev/api/langs?username=Shubham-997800&theme=radical" alt="Top Languages" width="100%">
+  </a>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=streak&color=22D3EE" alt="Streak">
@@ -539,15 +480,21 @@ Kaggle × Google
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=contributions&color=2DD4BF" alt="Contributions">
 </p>
 
+<br>
+
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=Shubham-997800&days=90&width=800&color=22D3EE" alt="Activity Sparkline">
+  <img src="https://ghstats.dev/api/sparkline?username=Shubham-997800&days=90&width=100%25&color=22D3EE" alt="Activity Sparkline">
 </p>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
 
 ## 🤝 Let's Connect
 
