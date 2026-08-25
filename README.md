@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/Shubham-997800">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&height=60&lines=Frontend+Developer+%7C+React+Developer+%7C+Product+Builder;I+don%27t+just+learn+technologies+%E2%80%94+I+ship+products+with+them" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=500&height=60&lines=Frontend+Developer+%7C+React+Developer+%7C+Product+Builder;I+don%27t+just+learn+technologies+%E2%80%94+I+ship+products+with+them" alt="Typing SVG" />
 </a>
 
 <br>
@@ -23,7 +23,8 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Shubham-997800&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
-<img src="https://ghstats.dev/api/sparkline?username=Shubham-997800&days=30&width=500&color=22D3EE" alt="Recent Activity">
+<br>
+<img src="https://ghstats.dev/api/sparkline?username=Shubham-997800&days=30&width=400&color=22D3EE" alt="Recent Activity">
 
 </div>
 
@@ -57,43 +58,70 @@
 
 <table>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;">
 <h4 align="center">🎨 Frontend Engineering</h4>
 <p align="center">Responsive UI · Component systems · Modern interfaces</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;">
 <h4 align="center">⚛️ React & Modern UI</h4>
 <p align="center">React 19 · State management · API integration</p>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;">
 <h4 align="center">📱 Web Applications</h4>
 <p align="center">Full-stack apps · Dashboard interfaces · PWA</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;">
 <h4 align="center">🤖 AI-Powered Products</h4>
 <p align="center">Multi-provider AI · Intelligent workflows · Voice input</p>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #06B6D4;">
 <h4 align="center">🚀 Deployment</h4>
 <p align="center">Vercel · Railway · Render · CI/CD pipelines</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #06B6D4;">
 <h4 align="center">🧩 Component Architecture</h4>
 <p align="center">Reusable primitives · Design systems · UI libraries</p>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #06B6D4;">
 <h4 align="center">🏆 Hackathon Projects</h4>
 <p align="center">Competitive building · Real-world problem solving</p>
 </td>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #06B6D4;">
 <h4 align="center">🧠 Problem Solving</h4>
 <p align="center">Algorithmic thinking · Product engineering</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 Frontend Expertise
+
+<table>
+<tr>
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<h4 align="center">🎨 UI Engineering</h4>
+<p align="center">Responsive Design · Component Architecture<br>Design Systems · Accessibility · UI State Management</p>
+</td>
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<h4 align="center">⚛️ React Ecosystem</h4>
+<p align="center">React 19 · React Router · TanStack Query<br>React Hook Form · Context API</p>
+</td>
+</tr>
+<tr>
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<h4 align="center">🖌️ Styling</h4>
+<p align="center">Tailwind CSS · CSS3 · Responsive Layouts<br>Modern UI Patterns · Dark / Light Themes</p>
+</td>
+<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<h4 align="center">🔧 Application Dev</h4>
+<p align="center">API Integration · Authentication · Forms & Validation<br>Charts & Visualization · PWA & Deployment</p>
 </td>
 </tr>
 </table>
@@ -105,7 +133,7 @@
 <table>
 <tr>
 <td width="6" bgcolor="#22D3EE"></td>
-<td bgcolor="#000000" style="padding: 12px;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### [`FlowSync AI`](https://github.com/Shubham-997800/FlowSync-Ai) 🧠
 **AI-Powered Productivity Operating System**
@@ -124,7 +152,7 @@ Intelligent task prioritization, AI-generated daily schedules, deadline risk pre
 <table>
 <tr>
 <td width="6" bgcolor="#06B6D4"></td>
-<td bgcolor="#000000" style="padding: 12px;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### [`WorkOS`](https://github.com/Shubham-997800/WorkOS) 💼
 **Business Workflow Management Platform**
@@ -143,7 +171,7 @@ Track companies, works, payments, and documents from a single dashboard. PWA wit
 <table>
 <tr>
 <td width="6" bgcolor="#0891B2"></td>
-<td bgcolor="#000000" style="padding: 12px;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### [`Assetrix`](https://github.com/Shubham-997800/assetrix) 📊
 **Enterprise Asset & Resource Management Platform**
@@ -162,12 +190,12 @@ Full lifecycle asset management with RBAC, approval workflows, maintenance sched
 <table>
 <tr>
 <td width="6" bgcolor="#2DD4BF"></td>
-<td bgcolor="#000000" style="padding: 12px;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### [`CAMPUS360`](https://github.com/Shubham-997800/CAMPUS360) 🎓
-**Campus-Focused Web Platform**
+**Campus Management Web Platform**
 
-Web application built and deployed as part of my development portfolio.
+Centralized campus portal for student resources, event management, and academic workflows. Built with modern React patterns.
 
 `React` `JavaScript` `HTML` `CSS` `Vite`
 
@@ -183,7 +211,7 @@ Web application built and deployed as part of my development portfolio.
 <table>
 <tr>
 <td width="4" bgcolor="#67E8F9"></td>
-<td bgcolor="#000000" style="padding: 10px;">
+<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
 <b><a href="https://github.com/Shubham-997800/sdx30">SDX30</a></b> — Developer Portfolio · `HTML` `CSS` `JavaScript`
 <a href="https://sdx30.vercel.app/"><img src="https://img.shields.io/badge/LIVE-67E8F9?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
 <a href="https://github.com/Shubham-997800/sdx30"><img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
@@ -194,7 +222,7 @@ Web application built and deployed as part of my development portfolio.
 <table>
 <tr>
 <td width="4" bgcolor="#A5F3FC"></td>
-<td bgcolor="#000000" style="padding: 10px;">
+<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
 <b><a href="https://github.com/Shubham-997800/kaggle-startuplaunch">StartupLaunch</a></b> — Startup Application · `React` `JavaScript` `HTML` `CSS`
 <a href="https://startuplaunch30.vercel.app/"><img src="https://img.shields.io/badge/LIVE-A5F3FC?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
 <a href="https://github.com/Shubham-997800/kaggle-startuplaunch"><img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
@@ -205,7 +233,7 @@ Web application built and deployed as part of my development portfolio.
 <table>
 <tr>
 <td width="4" bgcolor="#CCFBF1"></td>
-<td bgcolor="#000000" style="padding: 10px;">
+<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
 <b><a href="https://github.com/Shubham-997800/SofaWala">SofaWala</a></b> — E-Commerce Showcase · `HTML` `CSS` `JavaScript`
 <a href="https://sofawala.vercel.app/"><img src="https://img.shields.io/badge/LIVE-CCFBF1?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
 <a href="https://github.com/Shubham-997800/SofaWala"><img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
@@ -226,7 +254,6 @@ Web application built and deployed as part of my development portfolio.
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/React_19-000000?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=61DAFB" alt="React 19">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=3178C6" alt="TypeScript">
@@ -269,39 +296,12 @@ Web application built and deployed as part of my development portfolio.
 
 ---
 
-## 🧠 Frontend Expertise
-
-<table>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
-<h4 align="center">🎨 UI Engineering</h4>
-<p align="center">Responsive Design · Component Architecture<br>Design Systems · Accessibility · UI State Management</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
-<h4 align="center">⚛️ React Ecosystem</h4>
-<p align="center">React 19 · React Router · TanStack Query<br>React Hook Form · Context API</p>
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
-<h4 align="center">🖌️ Styling</h4>
-<p align="center">Tailwind CSS · CSS3 · Responsive Layouts<br>Modern UI Patterns · Dark / Light Themes</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
-<h4 align="center">🔧 Application Dev</h4>
-<p align="center">API Integration · Authentication · Forms & Validation<br>Charts & Visualization · PWA & Deployment</p>
-</td>
-</tr>
-</table>
-
----
-
 ## 🏆 Hackathons & Builder Journey
 
 <table>
 <tr>
 <td width="6" bgcolor="#22D3EE"></td>
-<td bgcolor="#000000" style="padding: 12px;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### 🏆 Odoo Hackathon 2026
 **Grand Finale Finalist · Team Leader**
@@ -314,7 +314,7 @@ Selected from **20,000+ applicants** · 📅 5–6 Sep 2026 · 📍 Gandhinagar
 <table>
 <tr>
 <td width="6" bgcolor="#06B6D4"></td>
-<td bgcolor="#000000" style="padding: 12px;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### 🌌 Bharatiya Antariksh Hackathon 2026
 **Participated — presented by ISRO**
@@ -327,7 +327,7 @@ Worked on a real-world SpaceTech problem · Powered by Hack2Skill
 <table>
 <tr>
 <td width="6" bgcolor="#0891B2"></td>
-<td bgcolor="#000000" style="padding: 12px;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### 🤖 Vibe2Ship
 **Solo Hackathon · Built FlowSync AI**
@@ -340,7 +340,7 @@ Coding Ninjas × Google for Developers
 <table>
 <tr>
 <td width="6" bgcolor="#2DD4BF"></td>
-<td bgcolor="#000000" style="padding: 12px;">
+<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
 
 ### 📚 AI Agents Intensive
 **Completed 5-Day Intensive Course**
@@ -361,6 +361,7 @@ Kaggle × Google
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Frontend_Architecture-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="Frontend Architecture">
   <img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logoColor=2DD4BF&borderColor=2DD4BF" alt="Performance">
+  <br>
   <img src="https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logoColor=67E8F9&borderColor=67E8F9" alt="Accessibility">
   <img src="https://img.shields.io/badge/Testing-000000?style=for-the-badge&logoColor=06B6D4&borderColor=06B6D4" alt="Testing">
   <img src="https://img.shields.io/badge/Design_Systems-000000?style=for-the-badge&logoColor=0891B2&borderColor=0891B2" alt="Design Systems">
@@ -375,13 +376,13 @@ Kaggle × Google
 
 <p align="center">
   <a href="https://github.com/Shubham-997800">
-    <img src="https://ghstats.dev/api/card?username=Shubham-997800&theme=radical" alt="GitHub Stats" width="100%">
+    <img src="https://ghstats.dev/api/card?username=Shubham-997800&bg_color=000000&border_color=003840&theme=chartreuse" alt="GitHub Stats" width="100%">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Shubham-997800">
-    <img src="https://ghstats.dev/api/langs?username=Shubham-997800&theme=radical" alt="Top Languages" width="100%">
+    <img src="https://ghstats.dev/api/langs?username=Shubham-997800&bg_color=000000&border_color=003840&theme=chartreuse" alt="Top Languages" width="100%">
   </a>
 </p>
 
@@ -405,9 +406,14 @@ Kaggle × Google
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<table>
+<tr>
+<td bgcolor="#000000" style="padding: 14px; border: 1px solid #003840;" align="center">
 
-<p><em>Frontend developer who builds, ships, and continuously improves.<br>Always interested in thoughtful products and interesting problems.</em></p>
+*Frontend developer who builds, ships, and continuously improves.*
+*Always interested in thoughtful products and interesting problems.*
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/sdx30/">
   <img src="https://img.shields.io/badge/💼_CONNECT-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&borderColor=0A66C2" alt="LinkedIn">
@@ -419,15 +425,13 @@ Kaggle × Google
   <img src="https://img.shields.io/badge/📧_SAY_HI-Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&borderColor=EA4335" alt="Email">
 </a>
 
-<br>
+<br><br>
 
 **Thanks for visiting my profile! 👋**
 **Building. Learning. Shipping. 🚀**
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Shubham-997800&color=22D3EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
-
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,40:003840,70:0891B2,100:22D3EE&text=THANKS+FOR+VISITING!&fontSize=25&fontColor=ffffff&animation=fadeIn&height=120" alt="Footer" width="100%">
