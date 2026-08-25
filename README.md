@@ -75,7 +75,7 @@
 <tr>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
 <h4 align="center">📱 Web Applications</h4>
-<p align="center">Full-stack apps · Dashboard interfaces · PWA</p>
+<p align="center">Responsive web apps · Dashboard interfaces · PWA</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
 <h4 align="center">🤖 AI-Powered Products</h4>
@@ -112,7 +112,7 @@
 <tr>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
 <h4 align="center">🎨 UI Engineering</h4>
-<p align="center">Responsive Design · Component Architecture<br>Design Systems · Accessibility · UI State Management</p>
+<p align="center">Responsive Design · Component Architecture<br>Accessibility · UI State Management</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
 <h4 align="center">⚛️ React Ecosystem</h4>
@@ -183,7 +183,7 @@ Track companies, works, payments, and documents from a single dashboard. PWA wit
 
 Full lifecycle asset management with RBAC, approval workflows, maintenance scheduling, audit compliance, and operational intelligence.
 
-`Next.js` `React 19` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Redis`
+`Next.js` `React 19` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
 <a href="https://assetrix30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-0891B2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&borderColor=0891B2" alt="Live"></a>
 <a href="https://github.com/Shubham-997800/assetrix"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=0891B2" alt="Code"></a>
@@ -251,7 +251,7 @@ Centralized campus portal for student resources, event management, and academic 
 ## ⚛️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,git,vercel,github,firebase,docker,prisma,postgresql,mongodb,nextjs&theme=dark" alt="Tech Stack" width="100%">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,git,vercel,github,firebase,prisma,postgresql,mongodb,nextjs&theme=dark" alt="Tech Stack" width="100%">
 </div>
 
 <details>
@@ -278,13 +278,10 @@ Centralized campus portal for student resources, event management, and academic 
 ### Backend & Data
 <p>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&borderColor=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF&borderColor=FFFFFF" alt="JWT">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=FFFFFF&borderColor=FFFFFF" alt="Express">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&borderColor=47A248" alt="MongoDB">
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1&borderColor=4169E1" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF&borderColor=FFFFFF" alt="Prisma">
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E&borderColor=3FCF8E" alt="Supabase">
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=DC382D&borderColor=DC382D" alt="Redis">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=FFFFFF&borderColor=FFFFFF" alt="Express">
 </p>
 
 ### Deployment & Tools
