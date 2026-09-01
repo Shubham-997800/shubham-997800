@@ -1,30 +1,89 @@
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════
+     SHUBHAM DANGI — GitHub Profile README
+     Design: Digital Editorial / Modern Developer Portfolio
+     ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Shubham-997800">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003840,70:0891B2,100:22D3EE&text=SHUBHAM%20DANGI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Frontend%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Product%20Builder&descSize=14&descAlignY=55&descAlign=50&height=180" alt="Banner" width="100%">
-</a>
+<div id="hero" align="center" style="padding: 50px 20px 10px 20px;">
 
-<a href="https://github.com/Shubham-997800">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=500&height=50&lines=Frontend+Developer+%7C+React+Developer+%7C+Product+Builder;I+don%27t+just+learn+technologies+%E2%80%94+I+ship+products+with+them" alt="Typing SVG" />
-</a>
+<style>
+  /* ─── THEME SYSTEM ─── */
+  #hero { --hero-bg: #ffffff; --hero-name: #0d1117; --hero-sub: #22D3EE; --hero-desc: #656d76; --hero-link: #656d76; --hero-views-fg: #0d1117; }
+  #footer { --ft-bg: #ffffff; --ft-name: #0d1117; --ft-sub: #22D3EE; --ft-desc: #656d76; --ft-link: #8b949e; }
+  @media (prefers-color-scheme: dark) {
+    #hero { --hero-bg: transparent; --hero-name: #f0f6fc; --hero-sub: #22D3EE; --hero-desc: #8b949e; --hero-link: #8b949e; --hero-views-fg: #f0f6fc; }
+    #footer { --ft-bg: transparent; --ft-name: #f0f6fc; --ft-sub: #22D3EE; --ft-desc: #8b949e; --ft-link: #8b949e; }
+  }
+
+  /* ─── HERO TYPOGRAPHY ─── */
+  .sd-name {
+    margin: 0; padding: 0;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    font-size: 48px; font-weight: 800; letter-spacing: -2px;
+    color: var(--hero-name); line-height: 1.05;
+  }
+  .sd-accent {
+    margin: 20px auto 0; padding: 0;
+    width: 100px; height: 3px;
+    background: linear-gradient(90deg, transparent, #22D3EE, #06B6D4, transparent);
+    border-radius: 2px; border: none;
+  }
+  .sd-role {
+    margin: 22px 0 0; padding: 0;
+    font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace;
+    font-size: 12px; font-weight: 500;
+    letter-spacing: 3px; color: var(--hero-sub);
+    text-transform: uppercase;
+  }
+  .sd-tagline {
+    margin: 20px auto 0; padding: 0;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    font-size: 15px; font-weight: 400;
+    color: var(--hero-desc); line-height: 1.6;
+    max-width: 480px; font-style: italic;
+  }
+  .sd-social img { height: 24px; }
+  .sd-social a { text-decoration: none; }
+  .sd-views { font-family: 'SFMono-Regular', monospace; font-size: 10px; color: var(--hero-views-fg); letter-spacing: 1px; }
+</style>
+
+<!-- NAME -->
+<h1 class="sd-name">SHUBHAM DANGI</h1>
+
+<!-- ACCENT LINE -->
+<hr class="sd-accent">
+
+<!-- ROLE -->
+<p class="sd-role">Frontend Developer &nbsp;&middot;&nbsp; React Developer &nbsp;&middot;&nbsp; Product Builder</p>
+
+<!-- TAGLINE -->
+<p class="sd-tagline">I build thoughtful, scalable interfaces and turn ideas into polished products.</p>
 
 <br>
 
-<a href="https://github.com/Shubham-997800">
-  <img src="https://img.shields.io/badge/⚡_FOLLOW-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&borderColor=22D3EE" alt="Follow">
-</a>
-<a href="https://www.linkedin.com/in/sdx30/">
-  <img src="https://img.shields.io/badge/💼_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&borderColor=22D3EE" alt="LinkedIn">
-</a>
-<a href="mailto:shubhamkumar997800@gmail.com">
-  <img src="https://img.shields.io/badge/📧_SAY_HI-Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&borderColor=22D3EE" alt="Email">
-</a>
+<!-- SOCIAL LINKS — Clean Badges -->
+<div class="sd-social">
+  <a href="https://github.com/Shubham-997800">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sdx30/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shubhamkumar997800@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email">
+  </a>
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Shubham-997800&color=22D3EE&style=flat-square&label=PROFILE+VIEWS&labelSize=10" alt="Profile Views">
-<br>
-<img src="https://ghstats.dev/api/sparkline?username=Shubham-997800&days=30&width=400&color=22D3EE" alt="Recent Activity">
+<!-- PROFILE VIEWS + ACTIVITY -->
+<p class="sd-views">
+  <img src="https://komarev.com/ghpvc/?username=Shubham-997800&color=22D3EE&style=flat-square&label=PROFILE+VIEWS&labelSize=10" alt="Profile Views" height="16" style="vertical-align: middle;">
+</p>
+<p style="margin: 8px 0 0; padding: 0;">
+  <img src="https://ghstats.dev/api/sparkline?username=Shubham-997800&days=30&width=380&color=22D3EE" alt="Recent Activity" width="300">
+</p>
 
 </div>
 
@@ -484,35 +543,67 @@ Kaggle × Google
 
 ---
 
-## 🤝 Let's Connect
+<div id="footer" align="center" style="padding: 10px 20px 50px 20px;">
 
-<table>
-<tr>
-<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;" align="center">
+<style>
+  .ft-divider {
+    width: 200px; height: 2px; border: none;
+    background: linear-gradient(90deg, transparent, #22D3EE, transparent);
+    border-radius: 1px; margin: 0 auto;
+  }
+  .ft-name {
+    margin: 0; padding: 0;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    font-size: 18px; font-weight: 700;
+    letter-spacing: 2px; color: var(--ft-name);
+    text-transform: uppercase;
+  }
+  .ft-role {
+    margin: 8px 0 0; padding: 0;
+    font-family: 'SFMono-Regular', 'Consolas', monospace;
+    font-size: 11px; letter-spacing: 2.5px;
+    color: var(--ft-sub); text-transform: uppercase;
+  }
+  .ft-tagline {
+    margin: 20px 0 0; padding: 0;
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    font-size: 13px; color: var(--ft-desc);
+    font-style: italic;
+  }
+  .ft-links {
+    margin: 22px 0 0; padding: 0;
+    font-family: 'SFMono-Regular', 'Consolas', monospace;
+    font-size: 12px; letter-spacing: 0.5px;
+  }
+  .ft-links a {
+    text-decoration: none; color: var(--ft-link);
+    transition: color 0.2s ease;
+  }
+  .ft-links a:hover { color: #22D3EE; }
+</style>
 
-*Frontend developer who builds, ships, and continuously improves.*
-*Always interested in thoughtful products and interesting problems.*
-*Open to open source collaborations and frontend contributions.*
+<!-- TOP DIVIDER -->
+<hr class="ft-divider">
 
-<br>
+<!-- NAME -->
+<p class="ft-name">SHUBHAM DANGI</p>
 
-<a href="https://www.linkedin.com/in/sdx30/">
-  <img src="https://img.shields.io/badge/💼_CONNECT-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&borderColor=0A66C2" alt="LinkedIn">
-</a>
-<a href="https://github.com/Shubham-997800">
-  <img src="https://img.shields.io/badge/⚡_FOLLOW-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&borderColor=FFFFFF" alt="GitHub">
-</a>
-<a href="mailto:shubhamkumar997800@gmail.com">
-  <img src="https://img.shields.io/badge/📧_SAY_HI-Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&borderColor=EA4335" alt="Email">
-</a>
+<!-- ROLE -->
+<p class="ft-role">Frontend Developer &nbsp;&middot;&nbsp; React Developer &nbsp;&middot;&nbsp; Product Builder</p>
 
-<br>
+<!-- TAGLINE -->
+<p class="ft-tagline">Building. Learning. Shipping.</p>
 
-**Thanks for visiting my profile! 👋**
-**Building. Learning. Shipping. 🚀**
+<!-- SOCIAL LINKS -->
+<p class="ft-links">
+  <a href="https://github.com/Shubham-997800">GitHub</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/sdx30/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:shubhamkumar997800@gmail.com">Email</a>
+</p>
 
-</td>
-</tr>
-</table>
+<!-- BOTTOM DIVIDER -->
+<hr class="ft-divider" style="margin-top: 28px;">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,40:003840,70:0891B2,100:22D3EE&text=THANKS+FOR+VISITING!&fontSize=20&fontColor=ffffff&animation=fadeIn&height=100" alt="Footer" width="100%">
+</div>
