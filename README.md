@@ -15,7 +15,7 @@
 <p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace; font-size: 12px; font-weight: 500; letter-spacing: 3px; color: #06B6D4; text-transform: uppercase;">Learning Frontend Development &nbsp;&middot;&nbsp; Building Real Projects</p>
 
 <!-- TAGLINE -->
-<p style="margin: 20px auto 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 400; color: #8b949e; line-height: 1.6; max-width: 480px; font-style: italic;">I build clean, responsive interfaces and turn ideas into real products.</p>
+<p style="margin: 20px auto 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 400; color: #8b949e; line-height: 1.6; max-width: 500px;">Learning by building — exploring React, modern web interfaces, and the engineering behind thoughtful products.</p>
 
 <br>
 
@@ -47,25 +47,12 @@
 
 ## About
 
-<table>
-<tr>
-<td width="120" align="center" style="border: 1px solid #003840;">
-  <a href="https://github.com/Shubham-997800">
-    <img src="https://github.com/Shubham-997800.png" width="100" alt="Shubham Dangi" style="border-radius: 50%;">
-  </a>
-</td>
-<td width="100%" style="padding: 14px; border: 1px solid #003840;">
+I'm a BCA student learning frontend development through real projects. I believe in building things that work — not just following tutorials. Currently exploring React, modern tooling, and the engineering principles behind scalable web products.
 
 - 🎓 **BCA 2027** · Ahmedabad, Gujarat, India
-- 🌐 **Frontend Developer** — HTML, CSS, JavaScript
-- 🏆 **Odoo Hackathon 2026** Grand Finale Finalist · Team Leader
-- 🚀 I build real products — not just tutorials
-- 📚 Currently learning React & modern frontend tools
+- 🏆 **Odoo Hackathon 2026** Grand Finale Finalist · Team Leader (selected from 20,000+ applicants)
+- 🚀 I learn by shipping — every project teaches something new
 - 🧠 Strong interest in problem solving and product engineering
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -82,17 +69,14 @@
 
 ## What I Build
 
-### Interface & Design
-- **Responsive Interfaces** — pixel-perfect layouts, mobile-first design, cross-browser compatibility
-- **Modern CSS** — Flexbox, Grid, animations, custom properties, media queries
-- **Portfolio Websites** — landing pages, portfolios, showcases with clean minimal design
+**Interface & Design**
+Responsive interfaces · Modern CSS layouts · Portfolio websites · Clean, minimal design
 
-### Applications & Logic
-- **Interactive Web Apps** — DOM manipulation, events, Fetch API, dynamic content
-- **Problem Solving** — JavaScript logic, algorithms, thinking through problems
+**Applications & Logic**
+Interactive web apps · DOM manipulation · Fetch API · JavaScript problem solving
 
-### Ship & Deploy
-- **Deploying Projects** — Vercel, GitHub Pages, getting projects live on the web
+**Ship & Deploy**
+Getting projects live on Vercel and GitHub Pages
 
 ---
 
@@ -163,7 +147,6 @@ Full lifecycle asset management with RBAC, approval workflows, maintenance sched
 - Multi-step approval workflows
 - Maintenance scheduling system
 - Audit compliance tracking
-- Operational intelligence dashboard
 
 `Next.js` `React 19` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
@@ -208,7 +191,7 @@ Centralized campus portal for student resources, event management, and academic 
 
 ---
 
-## Engineering Expertise
+## What I'm Developing
 
 <table>
 <tr>
@@ -238,9 +221,9 @@ Centralized campus portal for student resources, event management, and academic 
 ## Tech Stack
 
 <details>
-<summary><b>Full Tech Stack</b></summary>
+<summary><b>Technologies I work with</b></summary>
 
-### Mastered
+### Comfortable With
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&borderColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6&borderColor=1572B6" alt="CSS3">
