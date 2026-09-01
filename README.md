@@ -12,7 +12,7 @@
 <hr style="margin: 20px auto 0; padding: 0; width: 100px; height: 3px; background: linear-gradient(90deg, transparent, #22D3EE, #06B6D4, transparent); border-radius: 2px; border: none;">
 
 <!-- ROLE -->
-<p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace; font-size: 12px; font-weight: 500; letter-spacing: 3px; color: #06B6D4; text-transform: uppercase;">Frontend Developer &nbsp;&middot;&nbsp; HTML &nbsp;&middot;&nbsp; CSS &nbsp;&middot;&nbsp; JavaScript</p>
+<p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace; font-size: 12px; font-weight: 500; letter-spacing: 3px; color: #06B6D4; text-transform: uppercase;">Learning Frontend Development &nbsp;&middot;&nbsp; Building Real Projects</p>
 
 <!-- TAGLINE -->
 <p style="margin: 20px auto 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 400; color: #8b949e; line-height: 1.6; max-width: 480px; font-style: italic;">I build clean, responsive interfaces and turn ideas into real products.</p>
@@ -237,10 +237,6 @@ Centralized campus portal for student resources, event management, and academic 
 
 ## Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel&theme=dark" alt="Tech Stack" width="100%">
-</div>
-
 <details>
 <summary><b>Full Tech Stack</b></summary>
 
@@ -376,7 +372,7 @@ Kaggle × Google
 <p style="margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 18px; font-weight: 700; letter-spacing: 2px; color: #22D3EE; text-transform: uppercase;">SHUBHAM DANGI</p>
 
 <!-- ROLE -->
-<p style="margin: 8px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 11px; letter-spacing: 2.5px; color: #06B6D4; text-transform: uppercase;">Frontend Developer &nbsp;&middot;&nbsp; HTML &nbsp;&middot;&nbsp; CSS &nbsp;&middot;&nbsp; JavaScript</p>
+<p style="margin: 8px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 11px; letter-spacing: 2.5px; color: #06B6D4; text-transform: uppercase;">Learning Frontend &nbsp;&middot;&nbsp; Building &nbsp;&middot;&nbsp; Shipping</p>
 
 <!-- TAGLINE -->
 <p style="margin: 20px 0 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 13px; color: #8b949e; font-style: italic;">Building. Learning. Shipping.</p>
