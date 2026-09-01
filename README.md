@@ -3,84 +3,40 @@
      Design: Digital Editorial / Modern Developer Portfolio
      ═══════════════════════════════════════════════════════════════ -->
 
-<div id="hero" align="center" style="padding: 50px 20px 10px 20px;">
-
-<style>
-  /* ─── THEME SYSTEM ─── */
-  #hero { --hero-bg: #ffffff; --hero-name: #0d1117; --hero-sub: #22D3EE; --hero-desc: #656d76; --hero-link: #656d76; --hero-views-fg: #0d1117; }
-  #footer { --ft-bg: #ffffff; --ft-name: #0d1117; --ft-sub: #22D3EE; --ft-desc: #656d76; --ft-link: #8b949e; }
-  @media (prefers-color-scheme: dark) {
-    #hero { --hero-bg: transparent; --hero-name: #f0f6fc; --hero-sub: #22D3EE; --hero-desc: #8b949e; --hero-link: #8b949e; --hero-views-fg: #f0f6fc; }
-    #footer { --ft-bg: transparent; --ft-name: #f0f6fc; --ft-sub: #22D3EE; --ft-desc: #8b949e; --ft-link: #8b949e; }
-  }
-
-  /* ─── HERO TYPOGRAPHY ─── */
-  .sd-name {
-    margin: 0; padding: 0;
-    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-    font-size: 48px; font-weight: 800; letter-spacing: -2px;
-    color: var(--hero-name); line-height: 1.05;
-  }
-  .sd-accent {
-    margin: 20px auto 0; padding: 0;
-    width: 100px; height: 3px;
-    background: linear-gradient(90deg, transparent, #22D3EE, #06B6D4, transparent);
-    border-radius: 2px; border: none;
-  }
-  .sd-role {
-    margin: 22px 0 0; padding: 0;
-    font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace;
-    font-size: 12px; font-weight: 500;
-    letter-spacing: 3px; color: var(--hero-sub);
-    text-transform: uppercase;
-  }
-  .sd-tagline {
-    margin: 20px auto 0; padding: 0;
-    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-    font-size: 15px; font-weight: 400;
-    color: var(--hero-desc); line-height: 1.6;
-    max-width: 480px; font-style: italic;
-  }
-  .sd-social img { height: 24px; }
-  .sd-social a { text-decoration: none; }
-  .sd-views { font-family: 'SFMono-Regular', monospace; font-size: 10px; color: var(--hero-views-fg); letter-spacing: 1px; }
-</style>
+<div align="center" style="padding: 50px 20px 10px 20px;">
 
 <!-- NAME -->
-<h1 class="sd-name">SHUBHAM DANGI</h1>
+<h1 style="margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 48px; font-weight: 800; letter-spacing: -2px; color: #22D3EE; line-height: 1.05;">SHUBHAM DANGI</h1>
 
 <!-- ACCENT LINE -->
-<hr class="sd-accent">
+<hr style="margin: 20px auto 0; padding: 0; width: 100px; height: 3px; background: linear-gradient(90deg, transparent, #22D3EE, #06B6D4, transparent); border-radius: 2px; border: none;">
 
 <!-- ROLE -->
-<p class="sd-role">Frontend Developer &nbsp;&middot;&nbsp; React Developer &nbsp;&middot;&nbsp; Product Builder</p>
+<p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace; font-size: 12px; font-weight: 500; letter-spacing: 3px; color: #06B6D4; text-transform: uppercase;">Frontend Developer &nbsp;&middot;&nbsp; React Developer &nbsp;&middot;&nbsp; Product Builder</p>
 
 <!-- TAGLINE -->
-<p class="sd-tagline">I build thoughtful, scalable interfaces and turn ideas into polished products.</p>
+<p style="margin: 20px auto 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 400; color: #8b949e; line-height: 1.6; max-width: 480px; font-style: italic;">I build thoughtful, scalable interfaces and turn ideas into polished products.</p>
 
 <br>
 
-<!-- SOCIAL LINKS — Clean Badges -->
-<div class="sd-social">
-  <a href="https://github.com/Shubham-997800">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sdx30/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shubhamkumar997800@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email">
-  </a>
-</div>
+<!-- SOCIAL LINKS -->
+<a href="https://github.com/Shubham-997800" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/GitHub-22D3EE?style=flat-square&logo=github&logoColor=white&labelColor=22D3EE" alt="GitHub" height="24">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sdx30/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="24">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:shubhamkumar997800@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="24">
+</a>
 
-<br>
+<br><br>
 
-<!-- PROFILE VIEWS + ACTIVITY -->
-<p class="sd-views">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-997800&color=22D3EE&style=flat-square&label=PROFILE+VIEWS&labelSize=10" alt="Profile Views" height="16" style="vertical-align: middle;">
-</p>
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=Shubham-997800&color=22D3EE&style=flat-square&label=PROFILE+VIEWS&labelSize=10" alt="Profile Views" height="16" style="vertical-align: middle;">
+
 <p style="margin: 8px 0 0; padding: 0;">
   <img src="https://ghstats.dev/api/sparkline?username=Shubham-997800&days=30&width=380&color=22D3EE" alt="Recent Activity" width="300">
 </p>
@@ -543,67 +499,30 @@ Kaggle × Google
 
 ---
 
-<div id="footer" align="center" style="padding: 10px 20px 50px 20px;">
-
-<style>
-  .ft-divider {
-    width: 200px; height: 2px; border: none;
-    background: linear-gradient(90deg, transparent, #22D3EE, transparent);
-    border-radius: 1px; margin: 0 auto;
-  }
-  .ft-name {
-    margin: 0; padding: 0;
-    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-    font-size: 18px; font-weight: 700;
-    letter-spacing: 2px; color: var(--ft-name);
-    text-transform: uppercase;
-  }
-  .ft-role {
-    margin: 8px 0 0; padding: 0;
-    font-family: 'SFMono-Regular', 'Consolas', monospace;
-    font-size: 11px; letter-spacing: 2.5px;
-    color: var(--ft-sub); text-transform: uppercase;
-  }
-  .ft-tagline {
-    margin: 20px 0 0; padding: 0;
-    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-    font-size: 13px; color: var(--ft-desc);
-    font-style: italic;
-  }
-  .ft-links {
-    margin: 22px 0 0; padding: 0;
-    font-family: 'SFMono-Regular', 'Consolas', monospace;
-    font-size: 12px; letter-spacing: 0.5px;
-  }
-  .ft-links a {
-    text-decoration: none; color: var(--ft-link);
-    transition: color 0.2s ease;
-  }
-  .ft-links a:hover { color: #22D3EE; }
-</style>
+<div align="center" style="padding: 10px 20px 50px 20px;">
 
 <!-- TOP DIVIDER -->
-<hr class="ft-divider">
+<hr style="width: 200px; height: 2px; border: none; background: linear-gradient(90deg, transparent, #22D3EE, transparent); border-radius: 1px; margin: 0 auto;">
 
 <!-- NAME -->
-<p class="ft-name">SHUBHAM DANGI</p>
+<p style="margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 18px; font-weight: 700; letter-spacing: 2px; color: #22D3EE; text-transform: uppercase;">SHUBHAM DANGI</p>
 
 <!-- ROLE -->
-<p class="ft-role">Frontend Developer &nbsp;&middot;&nbsp; React Developer &nbsp;&middot;&nbsp; Product Builder</p>
+<p style="margin: 8px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 11px; letter-spacing: 2.5px; color: #06B6D4; text-transform: uppercase;">Frontend Developer &nbsp;&middot;&nbsp; React Developer &nbsp;&middot;&nbsp; Product Builder</p>
 
 <!-- TAGLINE -->
-<p class="ft-tagline">Building. Learning. Shipping.</p>
+<p style="margin: 20px 0 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 13px; color: #8b949e; font-style: italic;">Building. Learning. Shipping.</p>
 
 <!-- SOCIAL LINKS -->
-<p class="ft-links">
-  <a href="https://github.com/Shubham-997800">GitHub</a>
+<p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 12px; letter-spacing: 0.5px;">
+  <a href="https://github.com/Shubham-997800" style="text-decoration: none; color: #8b949e;">GitHub</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/in/sdx30/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sdx30/" style="text-decoration: none; color: #8b949e;">LinkedIn</a>
   &nbsp;&middot;&nbsp;
-  <a href="mailto:shubhamkumar997800@gmail.com">Email</a>
+  <a href="mailto:shubhamkumar997800@gmail.com" style="text-decoration: none; color: #8b949e;">Email</a>
 </p>
 
 <!-- BOTTOM DIVIDER -->
-<hr class="ft-divider" style="margin-top: 28px;">
+<hr style="width: 200px; height: 2px; border: none; background: linear-gradient(90deg, transparent, #22D3EE, transparent); border-radius: 1px; margin: 28px auto 0;">
 
 </div>
