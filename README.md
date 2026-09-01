@@ -12,10 +12,10 @@
 <hr style="margin: 20px auto 0; padding: 0; width: 100px; height: 3px; background: linear-gradient(90deg, transparent, #22D3EE, #06B6D4, transparent); border-radius: 2px; border: none;">
 
 <!-- ROLE -->
-<p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace; font-size: 12px; font-weight: 500; letter-spacing: 3px; color: #06B6D4; text-transform: uppercase;">Frontend Developer &nbsp;&middot;&nbsp; React Developer &nbsp;&middot;&nbsp; Product Builder</p>
+<p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace; font-size: 12px; font-weight: 500; letter-spacing: 3px; color: #06B6D4; text-transform: uppercase;">Frontend Developer &nbsp;&middot;&nbsp; HTML &nbsp;&middot;&nbsp; CSS &nbsp;&middot;&nbsp; JavaScript</p>
 
 <!-- TAGLINE -->
-<p style="margin: 20px auto 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 400; color: #8b949e; line-height: 1.6; max-width: 480px; font-style: italic;">I build thoughtful, scalable interfaces and turn ideas into polished products.</p>
+<p style="margin: 20px auto 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 400; color: #8b949e; line-height: 1.6; max-width: 480px; font-style: italic;">I build clean, responsive interfaces and turn ideas into real products.</p>
 
 <br>
 
@@ -57,10 +57,10 @@
 <td width="100%" bgcolor="#000000" style="padding: 14px; border: 1px solid #003840;">
 
 - 🎓 **BCA 2027** · Ahmedabad, Gujarat, India
-- ⚛️ **Frontend Developer** — React 19, TypeScript, Tailwind CSS
+- 🌐 **Frontend Developer** — HTML, CSS, JavaScript
 - 🏆 **Odoo Hackathon 2026** Grand Finale Finalist · Team Leader
-- 🚀 Ship real products — not just tutorials
-- 🤖 Exploring AI-powered product experiences
+- 🚀 I build real products — not just tutorials
+- 📚 Currently learning React & modern frontend tools
 - 🧠 Strong interest in problem solving and product engineering
 
 </td>
@@ -123,42 +123,32 @@ Closed issues in < 5 minutes
 <table>
 <tr>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
-<h4 align="center">🎨 Frontend Engineering</h4>
-<p align="center">Responsive UI · Component architecture · Modern interfaces</p>
+<h4 align="center">🎨 Responsive Interfaces</h4>
+<p align="center">Pixel-perfect layouts · Mobile-first design<br>Cross-browser compatibility</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
-<h4 align="center">⚛️ React & Modern UI</h4>
-<p align="center">React 19 · State management · API integration</p>
+<h4 align="center">⚡ Interactive Web Apps</h4>
+<p align="center">DOM manipulation · Events · Fetch API<br>Dynamic content loading</p>
 </td>
 </tr>
 <tr>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
-<h4 align="center">📱 Web Applications</h4>
-<p align="center">Dashboard interfaces · PWA · Real-time features</p>
+<h4 align="center">🖌️ Modern CSS</h4>
+<p align="center">Flexbox · Grid · Animations<br>Custom properties · Media queries</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
-<h4 align="center">🤖 AI-Powered Products</h4>
-<p align="center">Multi-provider AI · Intelligent workflows · Voice input</p>
+<h4 align="center">📱 Portfolio Websites</h4>
+<p align="center">Landing pages · Portfolios · Showcases<br>Clean, minimal design</p>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
-<h4 align="center">🚀 Deployment</h4>
-<p align="center">Vercel · Railway · Render · CI/CD pipelines</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
-<h4 align="center">🧩 Component Systems</h4>
-<p align="center">Reusable primitives · Consistent UI patterns</p>
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
-<h4 align="center">🏆 Hackathon Builder</h4>
-<p align="center">Competitive building · Real-world problem solving</p>
-</td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
 <h4 align="center">🧠 Problem Solving</h4>
-<p align="center">Algorithmic thinking · Product engineering</p>
+<p align="center">JavaScript logic · Algorithms<br>Thinking through problems</p>
+</td>
+<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
+<h4 align="center">🚀 Deploying Projects</h4>
+<p align="center">Vercel · GitHub Pages<br>Getting projects live on the web</p>
 </td>
 </tr>
 </table>
@@ -313,48 +303,24 @@ Centralized campus portal for student resources, event management, and academic 
 ## ⚛️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,git,vercel,github,firebase,prisma,postgresql,mongodb,nextjs&theme=dark" alt="Tech Stack" width="100%">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel&theme=dark" alt="Tech Stack" width="100%">
 </div>
 
 <details>
 <summary><b>📋 Full Tech Stack (Click to expand)</b></summary>
 
-### Frontend
+### Mastered
 <p>
-  <img src="https://img.shields.io/badge/React_19-000000?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=61DAFB" alt="React 19">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&borderColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6&borderColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&borderColor=06B6D4" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF&borderColor=646CFF" alt="Vite">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&borderColor=FFFFFF" alt="Next.js">
-  <img src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=reactrouter&logoColor=CA4245&borderColor=CA4245" alt="React Router">
-  <img src="https://img.shields.io/badge/React_Hook_Form-000000?style=for-the-badge&logoColor=EC59EB&borderColor=EC59EB" alt="React Hook Form">
-  <img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=FF4154&borderColor=FF4154" alt="TanStack Query">
-  <img src="https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logoColor=5F5CE5&borderColor=5F5CE5" alt="Radix UI">
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=0055FF&borderColor=0055FF" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/Chart.js-000000?style=for-the-badge&logo=chartdotjs&logoColor=FF6384&borderColor=FF6384" alt="Chart.js">
-  <img src="https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logoColor=FFFFFF&borderColor=FFFFFF" alt="shadcn/ui">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderColor=F7DF1E" alt="JavaScript">
 </p>
 
-### Backend & Data
+### Tools I Use
 <p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&borderColor=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=FFFFFF&borderColor=FFFFFF" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&borderColor=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1&borderColor=4169E1" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF&borderColor=FFFFFF" alt="Prisma">
-</p>
-
-### Deployment & Tools
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&borderColor=FFFFFF" alt="Vercel">
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7&borderColor=46E3B7" alt="Render">
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28&borderColor=FFCA28" alt="Firebase">
-  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=FFFFFF&borderColor=FFFFFF" alt="Railway">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032&borderColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&borderColor=FFFFFF" alt="GitHub">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&borderColor=FFFFFF" alt="Vercel">
 </p>
 
 </details>
@@ -366,22 +332,22 @@ Centralized campus portal for student resources, event management, and academic 
 <table>
 <tr>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">🎨 UI Engineering</h4>
-<p align="center">Responsive Design · Component Architecture<br>Accessibility · UI State Management</p>
+<h4 align="center">🎨 HTML & Semantic Markup</h4>
+<p align="center">Semantic elements · Forms · Tables<br>Accessibility basics · SEO structure</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">⚛️ React Ecosystem</h4>
-<p align="center">React 19 · React Router · TanStack Query<br>React Hook Form · Context API</p>
+<h4 align="center">🖌️ CSS Styling</h4>
+<p align="center">Flexbox · Grid · Animations<br>Media queries · Custom properties</p>
 </td>
 </tr>
 <tr>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">🖌️ Styling</h4>
-<p align="center">Tailwind CSS · CSS3 · Responsive Layouts<br>Modern UI Patterns · Dark / Light Themes</p>
+<h4 align="center">⚡ JavaScript</h4>
+<p align="center">DOM manipulation · Events · ES6+<br>Fetch API · Async/Await</p>
 </td>
 <td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">🔧 Application Dev</h4>
-<p align="center">API Integration · Forms & Validation<br>Charts & Visualization · PWA & Deployment</p>
+<h4 align="center">📱 Responsive Design</h4>
+<p align="center">Mobile-first approach · Cross-browser<br>Pixel-perfect layouts</p>
 </td>
 </tr>
 </table>
@@ -449,15 +415,15 @@ Kaggle × Google
 <table>
 <tr>
 <td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;" align="center">
-  <img src="https://img.shields.io/badge/Advanced_React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=61DAFB" alt="Advanced React">
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&borderColor=06B6D4" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Frontend_Architecture-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="Frontend Architecture">
-  <img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logoColor=2DD4BF&borderColor=2DD4BF" alt="Performance">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&borderColor=FFFFFF" alt="Next.js">
   <br>
-  <img src="https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logoColor=67E8F9&borderColor=67E8F9" alt="Accessibility">
-  <img src="https://img.shields.io/badge/Testing-000000?style=for-the-badge&logoColor=06B6D4&borderColor=06B6D4" alt="Testing">
-  <img src="https://img.shields.io/badge/Design_Systems-000000?style=for-the-badge&logoColor=0891B2&borderColor=0891B2" alt="Design Systems">
-  <img src="https://img.shields.io/badge/AI_Applications-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="AI">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&borderColor=339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032&borderColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="Accessibility">
+  <img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logoColor=2DD4BF&borderColor=2DD4BF" alt="Performance">
 </td>
 </tr>
 </table>
@@ -508,7 +474,7 @@ Kaggle × Google
 <p style="margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 18px; font-weight: 700; letter-spacing: 2px; color: #22D3EE; text-transform: uppercase;">SHUBHAM DANGI</p>
 
 <!-- ROLE -->
-<p style="margin: 8px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 11px; letter-spacing: 2.5px; color: #06B6D4; text-transform: uppercase;">Frontend Developer &nbsp;&middot;&nbsp; React Developer &nbsp;&middot;&nbsp; Product Builder</p>
+<p style="margin: 8px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 11px; letter-spacing: 2.5px; color: #06B6D4; text-transform: uppercase;">Frontend Developer &nbsp;&middot;&nbsp; HTML &nbsp;&middot;&nbsp; CSS &nbsp;&middot;&nbsp; JavaScript</p>
 
 <!-- TAGLINE -->
 <p style="margin: 20px 0 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 13px; color: #8b949e; font-style: italic;">Building. Learning. Shipping.</p>
