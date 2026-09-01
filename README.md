@@ -12,10 +12,10 @@
 <hr style="margin: 20px auto 0; padding: 0; width: 100px; height: 3px; background: linear-gradient(90deg, transparent, #22D3EE, #06B6D4, transparent); border-radius: 2px; border: none;">
 
 <!-- ROLE -->
-<p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace; font-size: 12px; font-weight: 500; letter-spacing: 3px; color: #06B6D4; text-transform: uppercase;">Learning Frontend Development &nbsp;&middot;&nbsp; Building Real Projects</p>
+<p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace; font-size: 12px; font-weight: 500; letter-spacing: 3px; color: #06B6D4; text-transform: uppercase;">Building Interfaces &nbsp;&middot;&nbsp; Learning the Engineering</p>
 
 <!-- TAGLINE -->
-<p style="margin: 20px auto 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 400; color: #8b949e; line-height: 1.6; max-width: 500px;">Learning by building — exploring React, modern web interfaces, and the engineering behind thoughtful products.</p>
+<p style="margin: 20px auto 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 400; color: #8b949e; line-height: 1.6; max-width: 500px;">Exploring React, modern web interfaces, and the engineering principles behind products that actually ship.</p>
 
 <br>
 
@@ -47,12 +47,12 @@
 
 ## About
 
-I'm a BCA student learning frontend development through real projects. I believe in building things that work — not just following tutorials. Currently exploring React, modern tooling, and the engineering principles behind scalable web products.
+BCA student building frontend skills through real-world projects. Not following tutorials — shipping products that solve actual problems. Currently exploring React, modern tooling, and the engineering behind scalable web applications.
 
 - 🎓 **BCA 2027** · Ahmedabad, Gujarat, India
-- 🏆 **Odoo Hackathon 2026** Grand Finale Finalist · Team Leader (selected from 20,000+ applicants)
-- 🚀 I learn by shipping — every project teaches something new
-- 🧠 Strong interest in problem solving and product engineering
+- 🏆 **Odoo Hackathon 2026** Grand Finale Finalist · Team Leader — selected from 20,000+ applicants
+- 🚀 I learn by building — every project is a lesson in real engineering
+- 🧠 Strong interest in problem solving, product thinking, and frontend architecture
 
 ---
 
@@ -69,18 +69,18 @@ I'm a BCA student learning frontend development through real projects. I believe
 
 ## What I Build
 
-**Interface & Design**
-Responsive interfaces · Modern CSS layouts · Portfolio websites · Clean, minimal design — I enjoy making things look sharp and work smoothly across devices.
+### Product Interfaces
+Responsive layouts · Component architecture · Modern CSS systems · Clean, minimal design — building interfaces that look sharp and work everywhere.
 
-**Applications & Logic**
-Interactive web apps · DOM manipulation · Fetch API · JavaScript problem solving — I like understanding how things work under the hood.
+### Applications
+Interactive web apps · Dashboard platforms · API integration · Real-time features — understanding how complete products come together.
 
-**Ship & Deploy**
-Getting projects live on Vercel and GitHub Pages — because a project isn't done until it's deployed.
+### Builder Mindset
+Hackathon-driven development · Problem solving · Deploying to production — because shipping is where learning happens.
 
 ---
 
-## Projects
+## Featured Work
 
 <table>
 <tr>
@@ -191,27 +191,27 @@ Centralized campus portal for student resources, event management, and academic 
 
 ---
 
-## What I'm Developing
+## Engineering Focus
 
 <table>
 <tr>
 <td width="50%" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">HTML & Semantic Markup</h4>
-<p align="center">Semantic elements · Forms · Tables<br>Accessibility basics · SEO structure</p>
+<h4 align="center">UI Engineering</h4>
+<p align="center">Responsive Design · Component Architecture<br>Accessibility · UI State Management</p>
 </td>
 <td width="50%" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">CSS Styling</h4>
-<p align="center">Flexbox · Grid · Animations<br>Media queries · Custom properties</p>
+<h4 align="center">Styling & Layout</h4>
+<p align="center">Tailwind CSS · CSS3 · Flexbox · Grid<br>Modern UI Patterns · Dark / Light Themes</p>
 </td>
 </tr>
 <tr>
 <td width="50%" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">JavaScript</h4>
-<p align="center">DOM manipulation · Events · ES6+<br>Fetch API · Async/Await</p>
+<h4 align="center">Application Logic</h4>
+<p align="center">API Integration · Forms & Validation<br>Charts & Visualization · PWA & Deployment</p>
 </td>
 <td width="50%" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">Responsive Design</h4>
-<p align="center">Mobile-first approach · Cross-browser<br>Pixel-perfect layouts</p>
+<h4 align="center">Frontend Frameworks</h4>
+<p align="center">React 19 · React Router · TanStack Query<br>Next.js · TypeScript · Framer Motion</p>
 </td>
 </tr>
 </table>
@@ -223,11 +223,29 @@ Centralized campus portal for student resources, event management, and academic 
 <details>
 <summary><b>Technologies I work with</b></summary>
 
-### Working With
+### Frontend
 <p>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&borderColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6&borderColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&borderColor=06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&borderColor=FFFFFF" alt="Next.js">
+  <img src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=reactrouter&logoColor=CA4245&borderColor=CA4245" alt="React Router">
+  <img src="https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=FF4154&borderColor=FF4154" alt="TanStack Query">
+  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=0055FF&borderColor=0055FF" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logoColor=FFFFFF&borderColor=FFFFFF" alt="shadcn/ui">
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF&borderColor=646CFF" alt="Vite">
+</p>
+
+### Backend & Data
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&borderColor=339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logoColor=FFFFFF&borderColor=FFFFFF" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&borderColor=47A248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1&borderColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF&borderColor=FFFFFF" alt="Prisma">
 </p>
 
 ### Tools
@@ -297,16 +315,14 @@ Kaggle × Google
 
 ---
 
-## Currently Learning
+## Currently Exploring
 
 <p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&borderColor=06B6D4" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&borderColor=FFFFFF" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&borderColor=339933" alt="Node.js">
   <img src="https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="Accessibility">
   <img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logoColor=2DD4BF&borderColor=2DD4BF" alt="Performance">
+  <img src="https://img.shields.io/badge/Testing-000000?style=for-the-badge&logoColor=06B6D4&borderColor=06B6D4" alt="Testing">
+  <img src="https://img.shields.io/badge/Design_Systems-000000?style=for-the-badge&logoColor=0891B2&borderColor=0891B2" alt="Design Systems">
+  <img src="https://img.shields.io/badge/Frontend_Architecture-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="Frontend Architecture">
 </p>
 
 ---
@@ -355,10 +371,10 @@ Kaggle × Google
 <p style="margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 18px; font-weight: 700; letter-spacing: 2px; color: #22D3EE; text-transform: uppercase;">SHUBHAM DANGI</p>
 
 <!-- ROLE -->
-<p style="margin: 8px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 11px; letter-spacing: 2.5px; color: #06B6D4; text-transform: uppercase;">Learning Frontend &nbsp;&middot;&nbsp; Building &nbsp;&middot;&nbsp; Shipping</p>
+<p style="margin: 8px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 11px; letter-spacing: 2.5px; color: #06B6D4; text-transform: uppercase;">Building &nbsp;&middot;&nbsp; Learning &nbsp;&middot;&nbsp; Shipping</p>
 
 <!-- TAGLINE -->
-<p style="margin: 20px 0 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 13px; color: #8b949e; font-style: italic;">Building. Learning. Shipping.</p>
+<p style="margin: 20px 0 0; padding: 0; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 13px; color: #8b949e; font-style: italic;">Building interfaces. Learning the engineering.</p>
 
 <!-- SOCIAL LINKS -->
 <p style="margin: 22px 0 0; padding: 0; font-family: 'SFMono-Regular', 'Consolas', monospace; font-size: 12px; letter-spacing: 0.5px;">
