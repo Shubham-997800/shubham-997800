@@ -85,39 +85,6 @@ I focus on **frontend engineering** — building interfaces that are fast, acces
 
 ---
 
-## 🏅 GitHub Achievements
-
-<table>
-<tr>
-<td width="33%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;" align="center">
-
-### 📝 Profile README
-Created profile README repo
-
-✅ **Earned**
-
-</td>
-<td width="33%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;" align="center">
-
-### 🦈 Pull Shark
-Merged 3 pull requests
-
-✅ **Level 1**
-
-</td>
-<td width="34%" bgcolor="#000000" style="padding: 12px; border: 1px solid #22D3EE;" align="center">
-
-### ⚡ Quickdraw
-Closed issues in < 5 minutes
-
-✅ **Earned**
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧱 What I Build
 
 <table>
