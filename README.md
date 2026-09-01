@@ -70,13 +70,13 @@ I'm a BCA student learning frontend development through real projects. I believe
 ## What I Build
 
 **Interface & Design**
-Responsive interfaces · Modern CSS layouts · Portfolio websites · Clean, minimal design
+Responsive interfaces · Modern CSS layouts · Portfolio websites · Clean, minimal design — I enjoy making things look sharp and work smoothly across devices.
 
 **Applications & Logic**
-Interactive web apps · DOM manipulation · Fetch API · JavaScript problem solving
+Interactive web apps · DOM manipulation · Fetch API · JavaScript problem solving — I like understanding how things work under the hood.
 
 **Ship & Deploy**
-Getting projects live on Vercel and GitHub Pages
+Getting projects live on Vercel and GitHub Pages — because a project isn't done until it's deployed.
 
 ---
 
@@ -223,7 +223,7 @@ Centralized campus portal for student resources, event management, and academic 
 <details>
 <summary><b>Technologies I work with</b></summary>
 
-### Comfortable With
+### Working With
 <p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26&borderColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6&borderColor=1572B6" alt="CSS3">
