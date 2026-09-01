@@ -45,16 +45,16 @@
 
 ---
 
-## 👤 About Me
+## About
 
 <table>
 <tr>
-<td width="120" align="center" bgcolor="#000000" style="border: 1px solid #003840;">
+<td width="120" align="center" style="border: 1px solid #003840;">
   <a href="https://github.com/Shubham-997800">
     <img src="https://github.com/Shubham-997800.png" width="100" alt="Shubham Dangi" style="border-radius: 50%;">
   </a>
 </td>
-<td width="100%" bgcolor="#000000" style="padding: 14px; border: 1px solid #003840;">
+<td width="100%" style="padding: 14px; border: 1px solid #003840;">
 
 - 🎓 **BCA 2027** · Ahmedabad, Gujarat, India
 - 🌐 **Frontend Developer** — HTML, CSS, JavaScript
@@ -67,17 +67,12 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="80%">
-</div>
-
 ---
 
-## 💡 How I Think
+## How I Think
 
 > *"Build less, but build well. Every component should earn its place."*
 
-I focus on **frontend engineering** — building interfaces that are fast, accessible, and maintainable. I believe in:
 - **Honest code** — no unnecessary abstractions, no over-engineering
 - **Product thinking** — understanding *why* before *how*
 - **Ship then iterate** — deploy early, gather feedback, improve continuously
@@ -85,67 +80,44 @@ I focus on **frontend engineering** — building interfaces that are fast, acces
 
 ---
 
-## 🧱 What I Build
+## What I Build
 
-<table>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
-<h4 align="center">🎨 Responsive Interfaces</h4>
-<p align="center">Pixel-perfect layouts · Mobile-first design<br>Cross-browser compatibility</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
-<h4 align="center">⚡ Interactive Web Apps</h4>
-<p align="center">DOM manipulation · Events · Fetch API<br>Dynamic content loading</p>
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
-<h4 align="center">🖌️ Modern CSS</h4>
-<p align="center">Flexbox · Grid · Animations<br>Custom properties · Media queries</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #22D3EE;">
-<h4 align="center">📱 Portfolio Websites</h4>
-<p align="center">Landing pages · Portfolios · Showcases<br>Clean, minimal design</p>
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
-<h4 align="center">🧠 Problem Solving</h4>
-<p align="center">JavaScript logic · Algorithms<br>Thinking through problems</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #06B6D4;">
-<h4 align="center">🚀 Deploying Projects</h4>
-<p align="center">Vercel · GitHub Pages<br>Getting projects live on the web</p>
-</td>
-</tr>
-</table>
+### Interface & Design
+- **Responsive Interfaces** — pixel-perfect layouts, mobile-first design, cross-browser compatibility
+- **Modern CSS** — Flexbox, Grid, animations, custom properties, media queries
+- **Portfolio Websites** — landing pages, portfolios, showcases with clean minimal design
+
+### Applications & Logic
+- **Interactive Web Apps** — DOM manipulation, events, Fetch API, dynamic content
+- **Problem Solving** — JavaScript logic, algorithms, thinking through problems
+
+### Ship & Deploy
+- **Deploying Projects** — Vercel, GitHub Pages, getting projects live on the web
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 <table>
 <tr>
 <td width="6" bgcolor="#22D3EE"></td>
-<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td style="padding: 14px; border: 1px solid #003840;">
 
-### [`FlowSync AI`](https://github.com/Shubham-997800/FlowSync-Ai) 🧠
+### [`FlowSync AI`](https://github.com/Shubham-997800/FlowSync-Ai)
 **AI-Powered Productivity Operating System**
 
 Built for Vibe2Ship hackathon (Coding Ninjas × Google). Multi-provider AI integration with OpenRouter, AI-generated daily schedules, deadline risk prediction, rescue planning, and voice input for task creation.
 
-**Key Features:**
-- 🎤 Voice-to-task input with real-time transcription
-- 📊 AI schedule generation based on priority and deadlines
-- ⚠️ Deadline risk prediction with rescue planning
-- 🔄 Multi-provider AI backend (OpenRouter integration)
-- 🎨 Framer Motion animations throughout
+- Voice-to-task input with real-time transcription
+- AI schedule generation based on priority and deadlines
+- Deadline risk prediction with rescue planning
+- Multi-provider AI backend (OpenRouter integration)
 
 `React 19` `Vite` `Tailwind CSS` `Framer Motion` `Node.js` `Express` `MongoDB` `OpenRouter`
 
-<a href="https://flowsyncai30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&borderColor=22D3EE" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/FlowSync-Ai"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=22D3EE" alt="Code"></a>
-<a href="https://github.com/Shubham-997800/FlowSync-Ai"><img src="https://img.shields.io/badge/⚡_Lighthouse-95+-000000?style=flat-square&logo=googlelighthouse&logoColor=FFCA28&borderColor=FFCA28" alt="Lighthouse"></a>
+<a href="https://flowsyncai30.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-22D3EE?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
+<a href="https://github.com/Shubham-997800/FlowSync-Ai"><img src="https://img.shields.io/badge/Source_Code-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+<a href="https://github.com/Shubham-997800/FlowSync-Ai"><img src="https://img.shields.io/badge/Lighthouse-95+-FFCA28?style=flat-square&logo=googlelighthouse&logoColor=FFCA28" alt="Lighthouse"></a>
 
 </td>
 </tr>
@@ -154,26 +126,24 @@ Built for Vibe2Ship hackathon (Coding Ninjas × Google). Multi-provider AI integ
 <table>
 <tr>
 <td width="6" bgcolor="#06B6D4"></td>
-<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td style="padding: 14px; border: 1px solid #003840;">
 
-### [`WorkOS`](https://github.com/Shubham-997800/WorkOS) 💼
+### [`WorkOS`](https://github.com/Shubham-997800/WorkOS)
 **Business Workflow Management Platform**
 
 Full business workflow tool — track companies, works, payments, and documents from a single dashboard. PWA with offline support, global search, and device session management.
 
-**Key Features:**
-- 📱 PWA with offline-first architecture
-- 🔍 Global search across all entities
-- 💳 Payment tracking with status workflows
-- 📄 Document management system
-- 🖥️ Device session management
-- ⚡ Prisma + PostgreSQL backend
+- PWA with offline-first architecture
+- Global search across all entities
+- Payment tracking with status workflows
+- Document management system
+- Device session management
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `TanStack Query` `Prisma`
 
-<a href="https://workos30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&borderColor=06B6D4" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/WorkOS"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=06B6D4" alt="Code"></a>
-<a href="https://github.com/Shubham-997800/WorkOS"><img src="https://img.shields.io/badge/⚡_Lighthouse-92+-000000?style=flat-square&logo=googlelighthouse&logoColor=FFCA28&borderColor=FFCA28" alt="Lighthouse"></a>
+<a href="https://workos30.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
+<a href="https://github.com/Shubham-997800/WorkOS"><img src="https://img.shields.io/badge/Source_Code-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+<a href="https://github.com/Shubham-997800/WorkOS"><img src="https://img.shields.io/badge/Lighthouse-92+-FFCA28?style=flat-square&logo=googlelighthouse&logoColor=FFCA28" alt="Lighthouse"></a>
 
 </td>
 </tr>
@@ -182,24 +152,23 @@ Full business workflow tool — track companies, works, payments, and documents 
 <table>
 <tr>
 <td width="6" bgcolor="#0891B2"></td>
-<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td style="padding: 14px; border: 1px solid #003840;">
 
-### [`Assetrix`](https://github.com/Shubham-997800/assetrix) 📊
+### [`Assetrix`](https://github.com/Shubham-997800/assetrix)
 **Enterprise Asset & Resource Management Platform**
 
 Full lifecycle asset management with RBAC, approval workflows, maintenance scheduling, and audit compliance. Built with Next.js for server-side rendering and Prisma for type-safe database access.
 
-**Key Features:**
-- 🔐 Role-based access control (RBAC)
-- ✅ Multi-step approval workflows
-- 📅 Maintenance scheduling system
-- 📋 Audit compliance tracking
-- 📊 Operational intelligence dashboard
+- Role-based access control (RBAC)
+- Multi-step approval workflows
+- Maintenance scheduling system
+- Audit compliance tracking
+- Operational intelligence dashboard
 
 `Next.js` `React 19` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
-<a href="https://assetrix30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-0891B2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&borderColor=0891B2" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/assetrix"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=0891B2" alt="Code"></a>
+<a href="https://assetrix30.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0891B2?style=flat-square&logo=vercel&logoColor=white" alt="Live"></a>
+<a href="https://github.com/Shubham-997800/assetrix"><img src="https://img.shields.io/badge/Source_Code-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
 
 </td>
 </tr>
@@ -208,73 +177,72 @@ Full lifecycle asset management with RBAC, approval workflows, maintenance sched
 <table>
 <tr>
 <td width="6" bgcolor="#2DD4BF"></td>
-<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;">
+<td style="padding: 14px; border: 1px solid #003840;">
 
-### [`CAMPUS360`](https://github.com/Shubham-997800/CAMPUS360) 🎓
+### [`CAMPUS360`](https://github.com/Shubham-997800/CAMPUS360)
 **Campus Management Web Platform**
 
 Centralized campus portal for student resources, event management, and academic workflows. Component-based architecture with reusable UI primitives.
 
-**Key Features:**
-- 🧩 Component-based architecture
-- 📅 Event management system
-- 🎯 Academic workflow tracking
-- 📱 Responsive mobile-first design
+- Component-based architecture
+- Event management system
+- Academic workflow tracking
+- Responsive mobile-first design
 
 `React` `JavaScript` `HTML` `CSS` `Vite`
 
-<a href="https://campus30.vercel.app/"><img src="https://img.shields.io/badge/🟢_LIVE_DEMO-2DD4BF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=000000&borderColor=2DD4BF" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/CAMPUS360"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=2DD4BF" alt="Code"></a>
+<a href="https://campus30.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2DD4BF?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
+<a href="https://github.com/Shubham-997800/CAMPUS360"><img src="https://img.shields.io/badge/Source_Code-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
 
 </td>
 </tr>
 </table>
 
-### 📦 More Shipped Work
+#### More Shipped Work
+
+| Project | Stack | Links |
+|---------|-------|-------|
+| [`SDX30`](https://github.com/Shubham-997800/sdx30) — Developer Portfolio | `HTML` `CSS` `JavaScript` | [Live](https://sdx30.vercel.app/) · [Code](https://github.com/Shubham-997800/sdx30) |
+| [`StartupLaunch`](https://github.com/Shubham-997800/kaggle-startuplaunch) — Startup Application | `React` `JavaScript` `HTML` `CSS` | [Live](https://startuplaunch30.vercel.app/) · [Code](https://github.com/Shubham-997800/kaggle-startuplaunch) |
+| [`SofaWala`](https://github.com/Shubham-997800/SofaWala) — E-Commerce Showcase | `HTML` `CSS` `JavaScript` | [Live](https://sofawala.vercel.app/) · [Code](https://github.com/Shubham-997800/SofaWala) |
+
+---
+
+## Engineering Expertise
 
 <table>
 <tr>
-<td width="4" bgcolor="#67E8F9"></td>
-<td bgcolor="#000000" style="padding: 8px; border: 1px solid #003840;">
-<b><a href="https://github.com/Shubham-997800/sdx30">SDX30</a></b> — Developer Portfolio · `HTML` `CSS` `JavaScript`
-<a href="https://sdx30.vercel.app/"><img src="https://img.shields.io/badge/LIVE-67E8F9?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/sdx30"><img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+<td width="50%" style="padding: 10px; border: 1px solid #003840;">
+<h4 align="center">HTML & Semantic Markup</h4>
+<p align="center">Semantic elements · Forms · Tables<br>Accessibility basics · SEO structure</p>
+</td>
+<td width="50%" style="padding: 10px; border: 1px solid #003840;">
+<h4 align="center">CSS Styling</h4>
+<p align="center">Flexbox · Grid · Animations<br>Media queries · Custom properties</p>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td width="4" bgcolor="#A5F3FC"></td>
-<td bgcolor="#000000" style="padding: 8px; border: 1px solid #003840;">
-<b><a href="https://github.com/Shubham-997800/kaggle-startuplaunch">StartupLaunch</a></b> — Startup Application · `React` `JavaScript` `HTML` `CSS`
-<a href="https://startuplaunch30.vercel.app/"><img src="https://img.shields.io/badge/LIVE-A5F3FC?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/kaggle-startuplaunch"><img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+<td width="50%" style="padding: 10px; border: 1px solid #003840;">
+<h4 align="center">JavaScript</h4>
+<p align="center">DOM manipulation · Events · ES6+<br>Fetch API · Async/Await</p>
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="4" bgcolor="#CCFBF1"></td>
-<td bgcolor="#000000" style="padding: 8px; border: 1px solid #003840;">
-<b><a href="https://github.com/Shubham-997800/SofaWala">SofaWala</a></b> — E-Commerce Showcase · `HTML` `CSS` `JavaScript`
-<a href="https://sofawala.vercel.app/"><img src="https://img.shields.io/badge/LIVE-CCFBF1?style=flat-square&logo=vercel&logoColor=black" alt="Live"></a>
-<a href="https://github.com/Shubham-997800/SofaWala"><img src="https://img.shields.io/badge/CODE-000000?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
+<td width="50%" style="padding: 10px; border: 1px solid #003840;">
+<h4 align="center">Responsive Design</h4>
+<p align="center">Mobile-first approach · Cross-browser<br>Pixel-perfect layouts</p>
 </td>
 </tr>
 </table>
 
 ---
 
-## ⚛️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vercel&theme=dark" alt="Tech Stack" width="100%">
 </div>
 
 <details>
-<summary><b>📋 Full Tech Stack (Click to expand)</b></summary>
+<summary><b>Full Tech Stack</b></summary>
 
 ### Mastered
 <p>
@@ -283,7 +251,7 @@ Centralized campus portal for student resources, event management, and academic 
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&borderColor=F7DF1E" alt="JavaScript">
 </p>
 
-### Tools I Use
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032&borderColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&borderColor=FFFFFF" alt="GitHub">
@@ -294,43 +262,16 @@ Centralized campus portal for student resources, event management, and academic 
 
 ---
 
-## 🧠 Frontend Expertise
-
-<table>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">🎨 HTML & Semantic Markup</h4>
-<p align="center">Semantic elements · Forms · Tables<br>Accessibility basics · SEO structure</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">🖌️ CSS Styling</h4>
-<p align="center">Flexbox · Grid · Animations<br>Media queries · Custom properties</p>
-</td>
-</tr>
-<tr>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">⚡ JavaScript</h4>
-<p align="center">DOM manipulation · Events · ES6+<br>Fetch API · Async/Await</p>
-</td>
-<td width="50%" bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
-<h4 align="center">📱 Responsive Design</h4>
-<p align="center">Mobile-first approach · Cross-browser<br>Pixel-perfect layouts</p>
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Hackathons & Builder Journey
+## Hackathons & Builder Journey
 
 <table>
 <tr>
 <td width="6" bgcolor="#22D3EE"></td>
-<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<td style="padding: 10px; border: 1px solid #003840;">
 
-### 🏆 Odoo Hackathon 2026
+### Odoo Hackathon 2026
 **Grand Finale Finalist · Team Leader**
-Selected from **20,000+ applicants** · 📅 5–6 Sep 2026 · 📍 Gandhinagar
+Selected from **20,000+ applicants** · 5–6 Sep 2026 · Gandhinagar
 
 </td>
 </tr>
@@ -339,9 +280,9 @@ Selected from **20,000+ applicants** · 📅 5–6 Sep 2026 · 📍 Gandhinagar
 <table>
 <tr>
 <td width="6" bgcolor="#06B6D4"></td>
-<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<td style="padding: 10px; border: 1px solid #003840;">
 
-### 🌌 Bharatiya Antariksh Hackathon 2026
+### Bharatiya Antariksh Hackathon 2026
 **Participated — presented by ISRO**
 Worked on a real-world SpaceTech problem · Powered by Hack2Skill
 
@@ -352,9 +293,9 @@ Worked on a real-world SpaceTech problem · Powered by Hack2Skill
 <table>
 <tr>
 <td width="6" bgcolor="#0891B2"></td>
-<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<td style="padding: 10px; border: 1px solid #003840;">
 
-### 🤖 Vibe2Ship
+### Vibe2Ship
 **Solo Hackathon · Built FlowSync AI**
 Coding Ninjas × Google for Developers
 
@@ -365,9 +306,9 @@ Coding Ninjas × Google for Developers
 <table>
 <tr>
 <td width="6" bgcolor="#2DD4BF"></td>
-<td bgcolor="#000000" style="padding: 10px; border: 1px solid #003840;">
+<td style="padding: 10px; border: 1px solid #003840;">
 
-### 📚 AI Agents Intensive
+### AI Agents Intensive
 **Completed 5-Day Intensive Course**
 Kaggle × Google
 
@@ -377,36 +318,30 @@ Kaggle × Google
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-<table>
-<tr>
-<td bgcolor="#000000" style="padding: 12px; border: 1px solid #003840;" align="center">
+<p>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&borderColor=06B6D4" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&borderColor=FFFFFF" alt="Next.js">
-  <br>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&borderColor=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032&borderColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logoColor=22D3EE&borderColor=22D3EE" alt="Accessibility">
   <img src="https://img.shields.io/badge/Performance-000000?style=for-the-badge&logoColor=2DD4BF&borderColor=2DD4BF" alt="Performance">
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <table>
 <tr>
-<td width="50%" bgcolor="#000000" style="border: 1px solid #003840;" align="center">
+<td width="50%" style="border: 1px solid #003840;" align="center">
   <a href="https://github.com/Shubham-997800">
     <img src="https://ghstats.dev/api/card?username=Shubham-997800&bg_color=000000&border_color=003840&title_color=22D3EE&text_color=A5F3FC&icon_color=22D3EE" alt="GitHub Stats" width="100%">
   </a>
 </td>
-<td width="50%" bgcolor="#000000" style="border: 1px solid #003840;" align="center">
+<td width="50%" style="border: 1px solid #003840;" align="center">
   <a href="https://github.com/Shubham-997800">
     <img src="https://ghstats.dev/api/langs?username=Shubham-997800&bg_color=000000&border_color=003840&title_color=22D3EE&text_color=A5F3FC&lang1_color=22D3EE&lang2_color=06B6D4&lang3_color=0891B2&lang4_color=2DD4BF&lang5_color=67E8F9" alt="Top Languages" width="100%">
   </a>
@@ -416,7 +351,7 @@ Kaggle × Google
 
 <table>
 <tr>
-<td bgcolor="#000000" style="padding: 8px; border: 1px solid #003840;" align="center">
+<td style="padding: 8px; border: 1px solid #003840;" align="center">
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=streak&color=22D3EE" alt="Streak">
   &nbsp;&nbsp;
   <img src="https://ghstats.dev/api/mini?username=Shubham-997800&metric=commits&color=06B6D4" alt="Commits">
