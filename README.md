@@ -2,4 +2,4 @@
 
 **Pre SWE**
 
-![GitHub Streak](./streak.svg)
+![GitHub Streak](https://raw.githubusercontent.com/Shubham-997800/Shubham-997800/main/streak.svg)
